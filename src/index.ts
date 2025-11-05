@@ -3,12 +3,17 @@ import { Hono } from "hono";
 import art from "./routes/art.js";
 
 const app = new Hono();
+import { connectDB } from "./db/db.js";
 
-app.get("/", (c) => {
-  return c.text("Hello Hono!");
-});
+connectDB()
+  .then(() => {
+    console.log("App ready!");
+  })
+  .catch(console.error);
 
-app.route("/", art);
+app.get("/", (c) => c.text("Hello, Masterpiece Hub!"));
+
+app.route("/api/art", art);
 
 serve(
   {
