@@ -1,5 +1,3 @@
-
-
 ### 📝 **GitHub Repo Description**
 
 > Masterpiece Hub — a modern art discovery platform built with Node.js, TypeScript, Hono, MongoDB, and React/Vite. Explore curated artworks, eras, and artists through a fast and scalable full-stack experience.
