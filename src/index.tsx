@@ -13,7 +13,7 @@ connectDB()
 
 app.get("/", (c) => c.text("Hello, Masterpiece Hub!"));
 
-app.route("/api/art", art);
+app.route("/art", art);
 
 serve(
   {
