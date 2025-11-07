@@ -1,62 +1,8 @@
 import { Hono } from "hono";
-import { ArtPiece, ArtPieceModel } from "../models/Art.js";
-import type { FC } from "hono/jsx";
-
-const Layout: FC = (props) => {
-  return (
-    <html>
-      <body>{props.children}</body>
-    </html>
-  );
-};
-
-const Top: FC<{ eras: string[] }> = ({ eras }) => {
-  return (
-    <Layout>
-      <h1>Art Movements</h1>
-      <ul>
-        {eras.map((era) => (
-          <li key={era}>
-            <a href={`/art/${encodeURIComponent(era.toLowerCase())}`}>{era}</a>
-          </li>
-        ))}
-      </ul>
-    </Layout>
-  );
-};
-
-const Era: FC<{ artworks: string[]; era: string }> = ({ artworks, era }) => {
-  return (
-    <Layout>
-      <h1>{era}</h1>
-      <ul>
-        {artworks.map((art: string) => (
-          <li key={art}>
-            <a
-              href={`/art/${encodeURIComponent(
-                era.toLowerCase()
-              )}/${encodeURIComponent(art.toLowerCase())}`}
-            >
-              {art}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </Layout>
-  );
-};
-
-const Artwork: FC<ArtPiece> = ({ title, artist, description }) => {
-  return (
-    <Layout>
-      <h1>{title}</h1>
-      <p>
-        <strong>Artist:</strong> {artist}
-      </p>
-      <p>{description}</p>
-    </Layout>
-  );
-};
+import { ArtPieceModel } from "../models/Art.js";
+import { Dashboard } from "../components/Dashboard.js";
+import { Era } from "../components/Era.js";
+import { Artwork } from "../components/Artwork.js";
 
 const art = new Hono();
 
@@ -65,7 +11,7 @@ art.get("/", async (c) => {
     era: { $exists: true, $ne: "", $regex: /.{4,}/ },
   });
 
-  return c.html(<Top eras={distinctEras} />);
+  return c.html(<Dashboard eras={distinctEras} />);
 });
 
 art.get("/:era", async (c) => {
