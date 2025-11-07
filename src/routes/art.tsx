@@ -28,16 +28,9 @@ const Top: FC<{ eras: string[] }> = ({ eras }) => {
 const art = new Hono();
 
 art.get("/", async (c) => {
-  const arts = await ArtPieceModel.find({}).lean();
-
-  const first = arts[0];
-  const artsArray = Array.isArray(first) ? first : Object.values(first);
-
-  const allEras = artsArray.map((art) => art.era);
-
-  const distinctEras = Array.from(new Set(allEras)).filter(
-    (era) => era && era.length >= 4
-  );
+  const distinctEras = await ArtPieceModel.distinct("era", {
+    era: { $exists: true, $ne: "", $regex: /.{4,}/ },
+  });
 
   return c.html(<Top eras={distinctEras} />);
 });
@@ -45,15 +38,25 @@ art.get("/", async (c) => {
 art.get("/:era", async (c) => {
   const era = c.req.param("era");
 
-  const arts = await ArtPieceModel.find({}).lean();
-  const first = arts[0];
-  const artsArray = Array.isArray(first) ? first : Object.values(first);
-
-  const artworksForEra = artsArray.filter(
-    (art: ArtPiece) => art.era && art.era.toLowerCase() === era.toLowerCase()
-  );
+  const artworksForEra = await ArtPieceModel.find({
+    era: { $regex: new RegExp(`^${era}$`, "i") },
+  }).lean();
 
   return c.json(artworksForEra);
+});
+
+art.get("/:era/:title", async (c) => {
+  const title = c.req.param("title");
+  if (!title) {
+    return c.json({ error: "title parameter is required" }, 400);
+  }
+  const decodedTitle = decodeURIComponent(title);
+
+  const artworks = await ArtPieceModel.find({
+    title: { $regex: new RegExp(`^${decodedTitle}$`, "i") },
+  }).lean();
+
+  return c.json(artworks);
 });
 
 export default art;

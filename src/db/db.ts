@@ -8,7 +8,7 @@ if (!mongoUri) {
 export const connectDB = async () => {
   try {
     await mongoose.connect(mongoUri, {
-      dbName: "test",
+      dbName: "tonys_data",
     });
     console.log("✅ Connected to MongoDB on railway test");
   } catch (err) {
