@@ -25,6 +25,27 @@ const Top: FC<{ eras: string[] }> = ({ eras }) => {
   );
 };
 
+const Era: FC<{ artworks: string[]; era: string }> = ({ artworks, era }) => {
+  return (
+    <Layout>
+      <h1>{era}</h1>
+      <ul>
+        {artworks.map((art: string) => (
+          <li key={art}>
+            <a
+              href={`/art/${encodeURIComponent(
+                era.toLowerCase()
+              )}/${encodeURIComponent(art.toLowerCase())}`}
+            >
+              {art}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </Layout>
+  );
+};
+
 const art = new Hono();
 
 art.get("/", async (c) => {
@@ -42,7 +63,11 @@ art.get("/:era", async (c) => {
     era: { $regex: new RegExp(`^${era}$`, "i") },
   }).lean();
 
-  return c.json(artworksForEra);
+  const artworkTitles = artworksForEra.map((art) =>
+    typeof art.title === "string" && art.title.trim() ? art.title : "Untitled"
+  );
+
+  return c.html(<Era artworks={artworkTitles} era={era} />);
 });
 
 art.get("/:era/:title", async (c) => {
