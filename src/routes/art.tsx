@@ -46,6 +46,18 @@ const Era: FC<{ artworks: string[]; era: string }> = ({ artworks, era }) => {
   );
 };
 
+const Artwork: FC<ArtPiece> = ({ title, artist, description }) => {
+  return (
+    <Layout>
+      <h1>{title}</h1>
+      <p>
+        <strong>Artist:</strong> {artist}
+      </p>
+      <p>{description}</p>
+    </Layout>
+  );
+};
+
 const art = new Hono();
 
 art.get("/", async (c) => {
@@ -77,11 +89,27 @@ art.get("/:era/:title", async (c) => {
   }
   const decodedTitle = decodeURIComponent(title);
 
-  const artworks = await ArtPieceModel.find({
+  const arts = await ArtPieceModel.find({
     title: { $regex: new RegExp(`^${decodedTitle}$`, "i") },
   }).lean();
 
-  return c.json(artworks);
+  if (!arts.length) {
+    return c.html(<div>Artwork not found</div>);
+  }
+
+  const art = arts[0];
+
+  return c.html(
+    <Artwork
+      id={art.id}
+      era={art.era}
+      title={art.title}
+      artist={art.artist}
+      description={art.description}
+      year={art.year}
+      image={art.image}
+    />
+  );
 });
 
 export default art;
