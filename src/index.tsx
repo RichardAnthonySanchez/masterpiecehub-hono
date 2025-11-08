@@ -1,9 +1,11 @@
 import { serve } from "@hono/node-server";
 import { Hono } from "hono";
+import { serveStatic } from "@hono/node-server/serve-static";
+import fs from "fs/promises";
 import art from "./routes/art.js";
+import { connectDB } from "./db/db.js";
 
 const app = new Hono();
-import { connectDB } from "./db/db.js";
 
 connectDB()
   .then(() => {
@@ -11,7 +13,12 @@ connectDB()
   })
   .catch(console.error);
 
-app.get("/", (c) => c.text("Hello, Masterpiece Hub!"));
+app.use("/*", serveStatic({ root: "./src/static" }));
+
+app.get("/", async (c) => {
+  const html = await fs.readFile("./src/static/index.html", "utf8");
+  return c.html(html);
+});
 
 app.route("/art", art);
 

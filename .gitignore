@@ -8,6 +8,9 @@
 .idea/usage.statistics.xml
 .idea/shelf
 
+#tailwind
+src/static/styles/output.css
+
 #build
 dist/
 
