@@ -2,7 +2,11 @@
 export default {
   content: ["./src/static/index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      fontSize: {
+        base: ["2.5rem", { lineHeight: "4rem" }],
+      },
+    },
   },
   plugins: [require("daisyui")],
   daisyui: {
