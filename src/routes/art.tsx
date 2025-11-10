@@ -21,11 +21,7 @@ art.get("/:era", async (c) => {
     era: { $regex: new RegExp(`^${era}$`, "i") },
   }).lean();
 
-  const artworkTitles = artworksForEra.map((art) =>
-    typeof art.title === "string" && art.title.trim() ? art.title : "Untitled"
-  );
-
-  return c.html(<Era artworks={artworkTitles} era={era} />);
+  return c.html(<Era artworks={artworksForEra} era={era} />);
 });
 
 art.get("/:era/:title", async (c) => {
