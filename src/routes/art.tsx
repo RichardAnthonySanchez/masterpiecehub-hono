@@ -11,7 +11,12 @@ art.get("/", async (c) => {
     era: { $exists: true, $ne: "", $regex: /.{4,}/ },
   });
 
-  return c.html(<Dashboard eras={distinctEras} />);
+  const firstArtwork = await ArtPieceModel.aggregate([
+    { $group: { _id: "$era", artwork: { $first: "$$ROOT" } } },
+    { $replaceRoot: { newRoot: "$artwork" } },
+  ]);
+
+  return c.html(<Dashboard artworks={firstArtwork} eras={distinctEras} />);
 });
 
 art.get("/:era", async (c) => {
