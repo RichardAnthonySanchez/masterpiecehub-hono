@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Almendra";
+  src: url("/fonts/Almendra.woff2") format("woff2"),
+    url("/fonts/Almendra.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Comfortaa";
+  src: url("/fonts/Comfortaa.woff2") format("woff2"),
+    url("/fonts/Comfortaa.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CrimsonPro";
+  src: url("/fonts/CrimsonPro.woff2") format("woff2"),
+    url("/fonts/CrimsonPro.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
