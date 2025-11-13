@@ -15,7 +15,7 @@
     "artist": "Unknown",
     "year": "1066-1082",
     "description": "The Bayeux Tapestry is a remarkable piece of medieval art that vividly depicts the events leading up to the Norman Conquest of England in 1066. Measuring approximately 230 feet long and embroidered on a linen cloth, it is an extraordinary historical document. The tapestry showcases detailed scenes of battles, political intrigues, and daily life, providing invaluable insights into the medieval era. As a significant artistic representation, it exemplifies the style and techniques of medieval art, characterized by its narrative storytelling, intricate details, and vibrant colors. The Bayeux Tapestry stands as a testament to the artistic skills and cultural significance of the medieval period, preserving a crucial chapter of history for future generations.",
-    "image": "img/thebayeuxtapestry.png"
+    "image": "img/thebayeuxtapestry.jpg"
   },
   {
     "id": "3",
@@ -600,7 +600,7 @@
     "artist": "Edgar Degas",
     "year": "1874",
     "description": "The Dance Class is a renowned painting by Edgar Degas, a prominent artist associated with the Impressionism art movement. Created in 1874, the painting depicts a ballet class in progress, with dancers rehearsing their moves under the guidance of a ballet master. Degas, known for his fascination with capturing scenes from everyday life, portrays the grace, elegance, and discipline of ballet through his meticulous attention to detail. The painting showcases Degas' mastery of composition, light, and movement, as he captures the dynamic poses and gestures of the dancers. The Dance Class exemplifies the Impressionist interest in capturing fleeting moments and exploring the interplay between light, color, and human subjects.",
-    "image": "img/thedanceclass.jpeg"
+    "image": "img/thedanceclass.jpg"
   },
   {
     "id": "68",
@@ -663,7 +663,7 @@
     "artist": "Vincent van Gogh",
     "year": "1889",
     "description": "Starry Night, a renowned painting by Vincent van Gogh, is a quintessential masterpiece of the post-Impressionism art movement. The artwork portrays a dreamlike nocturnal scene, with swirling brushstrokes and vibrant colors that evoke a sense of movement and emotion. Van Gogh's use of bold, expressive brushwork and intense colors creates a highly expressive and symbolic interpretation of the night sky. The painting reflects the artist's personal experiences, emotions, and his fascination with capturing the beauty and mystery of the natural world. Starry Night exemplifies the post-Impressionist emphasis on subjective expression, individual perception, and the artist's inner vision.",
-    "image": "img/thestarrynight.webp"
+    "image": "img/thestarrynight.jpg"
   },
   {
     "id": "75",
@@ -717,7 +717,7 @@
     "artist": "Georges Rouault",
     "year": "1908-1913",
     "description": "La Parade, painted by Georges Seurat, is a notable example of the Pointillism technique within the Post-Impressionist art movement. The painting depicts a crowd of people gathered for a parade, with each figure meticulously composed of tiny, distinct dots of color. Seurat's meticulous and scientific approach to color theory and composition sought to achieve a harmonious optical effect when viewed from a distance. La Parade exemplifies the Post-Impressionist artists' interest in exploring new techniques and pushing the boundaries of traditional representation. Through the intricate arrangement of dots, Seurat captured the play of light, color, and movement, creating a vibrant and dynamic visual experience.",
-    "image": "img/laparade.jpeg"
+    "image": "img/laparade.jpg"
   },
   {
     "id": "81",
@@ -771,7 +771,7 @@
     "artist": "René Magritte",
     "year": "1928",
     "description": "The Lovers is a surrealist painting by René Magritte, created in 1928. It depicts two figures engaged in a passionate kiss, with their faces covered by a white cloth, concealing their identities. The artwork explores themes of hidden desires, mystery, and the complex nature of human relationships. Through the use of juxtaposition and symbolism, Magritte challenges conventional interpretations and invites viewers to contemplate the meaning behind the concealed faces. The absence of individual identities emphasizes the universal nature of love and the inherent enigma of human connection. The Lovers exemplifies Magritte's distinctive style and his ability to provoke thought and curiosity through his art.",
-    "image": "img/thelovers.jpeg"
+    "image": "img/thelovers.jpg"
   },
   {
     "id": "87",
@@ -879,7 +879,7 @@
     "artist": "Andy Warhol",
     "year": "1964",
     "description": "Nine Jackies is a notable artwork created by Andy Warhol in 1964, during the Pop art movement. The piece features nine repetitive images of Jacqueline Kennedy, the iconic First Lady of the United States at the time. Warhol's use of screen-printing techniques and vibrant colors exemplifies his characteristic style, emphasizing the mass production and commercial aesthetic prevalent in Pop art. By depicting multiple images of Jackie Kennedy, Warhol explores themes of celebrity culture, media saturation, and the impact of repetition on our perception of icons. Nine Jackies reflects Warhol's fascination with fame, the power of images, and the intersection of art and popular culture.",
-    "image": "img/ninejackies.jpeg"
+    "image": "img/ninejackies.jpg"
   },
   {
     "id": "99",
@@ -897,6 +897,6 @@
     "artist": "Claes Oldenburg",
     "year": "1966",
     "description": "Banana is an iconic artwork created by the artist Andy Warhol in 1966 as part of his exploration of popular culture and consumerism within the Pop art movement. The artwork, officially titled \"The Velvet Underground & Nico,\" features a silkscreen print of a banana on the album cover of the band The Velvet Underground. Warhol's use of the banana as a repetitive and easily recognizable image reflects his interest in mass production and the commodification of art. The artwork embodies the Pop art movement's fascination with mundane and everyday objects, elevating them to the status of art and challenging traditional notions of artistic value and originality.",
-    "image": "img/banana.jpeg"
+    "image": "img/banana.jpg"
   }
 ]

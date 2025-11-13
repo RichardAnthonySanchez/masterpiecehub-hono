@@ -33,6 +33,8 @@ export const Era: FC<{ artworks: ArtPiece[]; era: string }> = ({
                       src={"/" + art.image}
                       alt={art.title}
                       className="w-full h-full object-cover object-center"
+                      loading="lazy"
+                      decoding="async"
                     />
                   </div>
                   <h2 className="my-4 text-7xl xl:text-lg">{art.title}</h2>

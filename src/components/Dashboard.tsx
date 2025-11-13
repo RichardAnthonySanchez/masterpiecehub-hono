@@ -36,6 +36,8 @@ export const Dashboard: FC<{ artworks: ArtPiece[]; eras: string[] }> = ({
                         src={`/${artpiece.image}`}
                         alt={artpiece.title}
                         className="w-full h-full object-cover object-center"
+                        loading="lazy"
+                        decoding="async"
                       />
                     </div>
                   </div>

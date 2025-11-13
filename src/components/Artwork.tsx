@@ -17,7 +17,13 @@ export const Artwork: FC<ArtPiece> = ({
         </div>
         <div className="col">
           <div className="artwork mb-8">
-            <img className="" src={"/" + image} alt={title} />
+            <img
+              className=""
+              src={"/" + image}
+              alt={title}
+              loading="lazy"
+              decoding="async"
+            />
           </div>
           <p className="era-copy lg:text-2xl/10">{description}</p>
         </div>
