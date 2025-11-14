@@ -29,15 +29,15 @@ art.get("/:era", async (c) => {
   return c.html(<Era artworks={artworksForEra} era={era} />);
 });
 
-art.get("/:era/:title", async (c) => {
-  const title = c.req.param("title");
-  if (!title) {
-    return c.json({ error: "title parameter is required" }, 400);
+art.get("/:era/:slug", async (c) => {
+  const slug = c.req.param("slug");
+  if (!slug) {
+    return c.json({ error: "slug parameter is required" }, 400);
   }
-  const decodedTitle = decodeURIComponent(title);
+  const decodedSlug = decodeURIComponent(slug);
 
   const arts = await ArtPieceModel.find({
-    title: { $regex: new RegExp(`^${decodedTitle}$`, "i") },
+    slug: { $regex: new RegExp(`^${decodedSlug}$`, "i") },
   }).lean();
 
   if (!arts.length) {

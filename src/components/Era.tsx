@@ -18,13 +18,13 @@ export const Era: FC<{ artworks: ArtPiece[]; era: string }> = ({
         <ul className="xl:grid xl:grid-cols-5 xl:gap-4">
           {artworks.map((art: ArtPiece) => (
             <li
-              key={art.title}
+              key={art.slug}
               className="era-item my-8 text-4xl xl:text-xl rounded-2xl overflow-clip xl:p-0"
             >
               <a
                 href={`/art/${encodeURIComponent(
                   era.toLowerCase()
-                )}/${encodeURIComponent(art.title.toLowerCase())}`}
+                )}/${encodeURIComponent(art.slug ?? "")}`}
                 className="block w-full h-full"
               >
                 <div className="flex flex-col items-center">

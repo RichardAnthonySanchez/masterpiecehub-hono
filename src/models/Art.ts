@@ -8,6 +8,7 @@ export class ArtPiece {
   year?: string;
   description?: string;
   image?: string;
+  slug?: string;
 }
 
 export const ArtPieceModel = getModelForClass(ArtPiece, {

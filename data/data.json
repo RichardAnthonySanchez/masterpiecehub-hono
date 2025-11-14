@@ -6,7 +6,8 @@
     "artist": "Unknown",
     "year": "800",
     "description": "The Book of Kells is an illuminated manuscript created around the 9th century CE by Celtic monks on the remote island of Iona, Scotland, and later completed in Kells, Ireland. This remarkable work is a masterful example of medieval art, specifically Hiberno-Saxon art, which flourished during the Early Medieval period. The book contains the four Gospels of the New Testament adorned with intricate illustrations, vibrant colors, and intricate Celtic motifs. Its significance lies in its exceptional artistic craftsmanship, showcasing the fusion of Celtic and Christian artistic traditions. The Book of Kells serves as a testament to the skill, devotion, and cultural exchange of the medieval era.",
-    "image": "img/thebookofkells.jpg"
+    "image": "img/thebookofkells.jpg",
+    "slug": "the-book-of-kells"
   },
   {
     "id": "2",
@@ -15,7 +16,8 @@
     "artist": "Unknown",
     "year": "1066-1082",
     "description": "The Bayeux Tapestry is a remarkable piece of medieval art that vividly depicts the events leading up to the Norman Conquest of England in 1066. Measuring approximately 230 feet long and embroidered on a linen cloth, it is an extraordinary historical document. The tapestry showcases detailed scenes of battles, political intrigues, and daily life, providing invaluable insights into the medieval era. As a significant artistic representation, it exemplifies the style and techniques of medieval art, characterized by its narrative storytelling, intricate details, and vibrant colors. The Bayeux Tapestry stands as a testament to the artistic skills and cultural significance of the medieval period, preserving a crucial chapter of history for future generations.",
-    "image": "img/thebayeuxtapestry.jpg"
+    "image": "img/thebayeuxtapestry.jpg",
+    "slug": "the-bayeux-tapestry"
   },
   {
     "id": "3",
@@ -24,7 +26,8 @@
     "artist": "Unknown",
     "year": "1194",
     "description": "Chartres Cathedral is a magnificent architectural masterpiece and a symbol of Gothic art and architecture. Located in Chartres, France, it is renowned for its grandeur, intricate sculptures, and stunning stained glass windows. Built in the 12th and 13th centuries, the cathedral embodies the height of medieval craftsmanship and spirituality. Its soaring vaulted ceilings, flying buttresses, and pointed arches are quintessential features of the Gothic style. The cathedral's stained glass windows, particularly the famous Blue Virgin window, are revered for their ethereal beauty and spiritual symbolism. Chartres Cathedral represents the artistic and cultural achievements of the medieval period, reflecting the devotion and creativity of its creators and leaving a lasting impact on the development of European art and architecture.",
-    "image": "img/chartrescathedral.jpg"
+    "image": "img/chartrescathedral.jpg",
+    "slug": "chartres-cathedral"
   },
   {
     "id": "4",
@@ -33,7 +36,8 @@
     "artist": "Unknown",
     "year": "700",
     "description": "The Lindisfarne Gospels is an extraordinary illuminated manuscript created in the 8th century on the Holy Island of Lindisfarne, England. It is a masterpiece of early medieval art and a significant example of Insular illumination. The gospels, written in Latin, contain the four books of the New Testament, accompanied by intricate illustrations and decorative elements. The pages are adorned with vibrant colors, elaborate interlacing patterns, and intricate animal motifs, showcasing the distinctive style of Insular art. The Lindisfarne Gospels exemplify the fusion of Christian spirituality, Celtic artistic traditions, and intricate craftsmanship. They demonstrate the importance of illuminated manuscripts in preserving and disseminating religious texts during the medieval period, and their enduring beauty continues to captivate viewers today.",
-    "image": "img/thelindisfarnegospels.jpg"
+    "image": "img/thelindisfarnegospels.jpg",
+    "slug": "the-lindisfarne-gospels"
   },
   {
     "id": "5",
@@ -42,7 +46,8 @@
     "artist": "Unknown",
     "year": "late 15th century",
     "description": "The Unicorn Tapestries, also known as The Hunt of the Unicorn, is a renowned series of tapestries dating back to the late Middle Ages. Created in the late 15th or early 16th century, these tapestries are a remarkable example of medieval art and craftsmanship. The series consists of a set of seven large-scale tapestries depicting various scenes related to the hunt and capture of a mythical unicorn. The tapestries are richly woven with vibrant colors, intricate details, and symbolism. They showcase the medieval fascination with symbolism, allegory, and the pursuit of the divine. The Unicorn Tapestries are not only a testament to the technical skill of the weavers but also a reflection of the medieval fascination with the mystical and the spiritual.",
-    "image": "img/theunicorntapestries.jpg"
+    "image": "img/theunicorntapestries.jpg",
+    "slug": "the-unicorn-tapestries"
   },
   {
     "id": "6",
@@ -51,7 +56,8 @@
     "artist": "Unknown",
     "year": "early 14th century",
     "description": "The Book of Hours of Jeanne d'Evreux is a beautifully illuminated manuscript created in the early 14th century. It is an exquisite example of medieval book production and artistry. Commissioned by Jeanne d'Evreux, the queen consort of France, this book served as a personal prayer book and a symbol of her piety and status. The manuscript contains a collection of prayers, psalms, and devotional texts accompanied by stunning miniatures and intricate decorations. The illuminations showcase the delicate and meticulous craftsmanship of the medieval illuminators, with vibrant colors, intricate details, and lavish gold leaf. The Book of Hours of Jeanne d'Evreux is not only a testament to the religious devotion of its patron but also a remarkable artistic treasure that captures the beauty and elegance of the medieval period.",
-    "image": "img/thebookofhoursofjeannedevreux.jpg"
+    "image": "img/thebookofhoursofjeannedevreux.jpg",
+    "slug": "the-book-of-hours-of-jeanne-devreux"
   },
   {
     "id": "7",
@@ -60,7 +66,8 @@
     "artist": "Unknown",
     "year": "early 15th century",
     "description": "The Hours of Catherine of Cleves is a splendid medieval manuscript created in the early 15th century. It is renowned for its exquisite illumination and intricate artistic details. Commissioned by Catherine of Cleves, a noblewoman from the Netherlands, this book of hours served as a personal prayer book and a reflection of her devoutness. The manuscript contains a collection of prayers, psalms, and devotional texts, embellished with elaborate borders, delicate miniatures, and ornate initials. The illuminations depict scenes from the life of Christ, saints, and biblical stories, showcasing the mastery of the medieval illuminators. The Hours of Catherine of Cleves stands as a remarkable example of the rich artistic tradition of the time, reflecting the religious fervor and cultural sophistication of the medieval era.",
-    "image": "img/thehoursofcatherineofcleves.jpg"
+    "image": "img/thehoursofcatherineofcleves.jpg",
+    "slug": "the-hours-of-catherine-of-cleves"
   },
   {
     "id": "8",
@@ -69,7 +76,8 @@
     "artist": "Lorenzo Ghiberti",
     "year": "1425 - 1452",
     "description": "The Doors of Ghiberti, also known as the Gates of Paradise, are an iconic example of medieval art created by the Italian sculptor Lorenzo Ghiberti in the 15th century. These magnificent bronze doors were commissioned for the Florence Baptistery in Florence, Italy. The doors feature a series of intricately designed panels depicting scenes from the Old Testament, showcasing Ghiberti's exceptional skill in sculpting lifelike figures and intricate details. The artwork's medieval qualities, such as its narrative storytelling, stylized figures, and decorative elements, reflect the artistic style and religious symbolism prevalent during the medieval period. The Doors of Ghiberti had a profound influence on the development of medieval art, setting a standard for craftsmanship and becoming a symbol of Florentine artistic excellence. While they also played a role in the transition to Renaissance art, their significance lies primarily in their embodiment of medieval artistic traditions.",
-    "image": "img/thedoorsofghiberti.jpg"
+    "image": "img/thedoorsofghiberti.jpg",
+    "slug": "the-doors-of-ghiberti"
   },
   {
     "id": "9",
@@ -78,7 +86,8 @@
     "artist": "Unknown",
     "year": "late 13th century",
     "description": "The Westminster Retable is a significant artwork of the medieval art movement, created in the late 13th century for Westminster Abbey in London, England. This magnificent painted panel retable was intended to adorn the high altar of the abbey, serving as a focal point of religious devotion. The Westminster Retable showcases the distinctive style of medieval painting, characterized by rich colors, intricate detailing, and religious iconography. The panels depict scenes from the life of Christ, including his birth, crucifixion, and resurrection, surrounded by ornate decorative elements and angelic figures. The exquisite craftsmanship and meticulous execution of the Westminster Retable highlight the artistic skill and spiritual significance of medieval art. Its presence in Westminster Abbey stands as a testament to the enduring legacy of medieval artistic traditions.",
-    "image": "img/thewestminsterretable.jpg"
+    "image": "img/thewestminsterretable.jpg",
+    "slug": "the-westminster-retable"
   },
   {
     "id": "10",
@@ -87,7 +96,8 @@
     "artist": "Unknown",
     "year": "12th century",
     "description": "The Stavelot Triptych is a remarkable example of medieval art created in the 12th century. This intricately crafted triptych, consisting of three hinged panels, was originally made to serve as a portable altarpiece for the Abbey of Stavelot in present-day Belgium. It is attributed to the Mosan School, a renowned artistic movement of the time. The triptych features delicate enamelwork, gilded details, and vibrant colors, showcasing the exquisite craftsmanship and attention to detail characteristic of medieval art. The panels depict scenes from the life of Christ, surrounded by intricate decorative elements and religious symbolism. The Stavelot Triptych exemplifies the fusion of religious devotion, artistic skill, and ornate beauty that defined medieval art. Its enduring legacy serves as a testament to the rich artistic traditions of the period.",
-    "image": "img/thestavelottriptych.jpg"
+    "image": "img/thestavelottriptych.jpg",
+    "slug": "the-stavelot-triptych"
   },
   {
     "id": "11",
@@ -96,7 +106,8 @@
     "artist": "Leonardo da Vinci",
     "year": "1503-1506",
     "description": "The Mona Lisa, created by Italian artist Leonardo da Vinci during the Renaissance, is one of the most famous and iconic artworks in the world. Painted between 1503 and 1506, this masterpiece exemplifies the ideals of the Renaissance art movement. The painting showcases da Vinci's mastery of techniques such as sfumato, which creates a soft, subtle transition between colors and tones. The Mona Lisa's enigmatic smile, subtle play of light and shadow, and the captivating gaze of the subject reflect the Renaissance focus on humanism, naturalism, and the portrayal of individuality. As an epitome of Renaissance art, the Mona Lisa continues to captivate viewers with its timeless beauty and mysterious allure.",
-    "image": "img/monalisa.jpg"
+    "image": "img/monalisa.jpg",
+    "slug": "mona-lisa"
   },
   {
     "id": "12",
@@ -105,7 +116,8 @@
     "artist": "Leonardo da Vinci",
     "year": "1495-1498",
     "description": "The Last Supper, painted by Leonardo da Vinci during the Renaissance, is an iconic masterpiece that holds significant historical and artistic importance. Created between 1495 and 1498, this mural depicts the biblical scene of Jesus Christ's last meal with his disciples. The painting showcases da Vinci's extraordinary attention to detail, composition, and perspective. Through the use of chiaroscuro and realistic human figures, he imbued the scene with a sense of depth, emotion, and narrative power. The Last Supper exemplifies the Renaissance's emphasis on naturalism, the portrayal of human emotions, and the exploration of perspective and composition. It remains an enduring symbol of artistic genius and religious symbolism.",
-    "image": "img/thelastsupper.jpg"
+    "image": "img/thelastsupper.jpg",
+    "slug": "the-last-supper"
   },
   {
     "id": "13",
@@ -114,7 +126,8 @@
     "artist": "Sandro Botticelli",
     "year": "1484-1486",
     "description": "The Birth of Venus, painted by Sandro Botticelli during the Renaissance, is a captivating masterpiece that exemplifies the era's fascination with classical mythology and humanistic ideals. Created around 1486, the painting depicts the birth of the goddess Venus emerging from the sea on a seashell. Botticelli's work showcases his meticulous attention to detail, vibrant colors, and graceful figures. The composition and pose of Venus, inspired by ancient Greek and Roman art, evoke a sense of elegance and beauty. The Birth of Venus represents the Renaissance's revival of classical themes, the celebration of beauty, and the exploration of human emotions. It stands as an iconic representation of Renaissance art and its connection to ancient cultural traditions.",
-    "image": "img/thebirthofvenus.jpg"
+    "image": "img/thebirthofvenus.jpg",
+    "slug": "the-birth-of-venus"
   },
   {
     "id": "14",
@@ -123,7 +136,8 @@
     "artist": "Michelangelo",
     "year": "1508-1512",
     "description": "The Creation of Adam, one of the most famous frescoes by Michelangelo, is an iconic artwork that captures the essence of the Renaissance. Painted on the ceiling of the Sistine Chapel in the early 16th century, it depicts the biblical story of the creation of Adam, where God reaches out to touch Adam's finger and bring him to life. This masterpiece showcases Michelangelo's exceptional skill in anatomy, composition, and capturing human emotion. The painting symbolizes the Renaissance fascination with humanism, the belief in the potential and dignity of mankind. It represents the connection between the divine and the human, highlighting the intellectual and artistic achievements of the period. The Creation of Adam remains a significant symbol of the Renaissance and a testament to Michelangelo's genius.",
-    "image": "img/thecreationofadam.jpg"
+    "image": "img/thecreationofadam.jpg",
+    "slug": "the-creation-of-adam"
   },
   {
     "id": "15",
@@ -132,7 +146,8 @@
     "artist": "Raphael",
     "year": "1509-1511",
     "description": "The School of Athens, painted by Raphael during the High Renaissance, is a monumental fresco that exemplifies the intellectual and artistic spirit of the era. The painting depicts a gathering of famous philosophers, mathematicians, and scientists from classical antiquity, arranged in a grand architectural setting. It serves as a visual representation of the pursuit of knowledge, wisdom, and the ideal of human intellect. The figures in the composition are depicted with great detail and convey a sense of dynamic interaction and contemplation. The School of Athens reflects the Renaissance fascination with classical philosophy and learning, emphasizing the revival of ancient Greek and Roman knowledge and the integration of humanist ideals. It stands as a testament to Raphael's mastery of composition, perspective, and the portrayal of human form.",
-    "image": "img/theschoolofathens.jpg"
+    "image": "img/theschoolofathens.jpg",
+    "slug": "the-school-of-athens"
   },
   {
     "id": "16",
@@ -141,7 +156,8 @@
     "artist": "Michelangelo",
     "year": "1508-1512",
     "description": "The Creation of Eve is a remarkable fresco painting by Michelangelo, part of the iconic Sistine Chapel Ceiling in Vatican City. This masterpiece depicts the biblical account of God creating Eve, the first woman. With incredible skill and precision, Michelangelo captures the intense moment when God reaches out to give life to Eve, showcasing his mastery of human anatomy and dramatic composition. The painting's grandeur and realism reflect the artist's commitment to the ideals of the High Renaissance. The Creation of Eve exemplifies Michelangelo's ability to infuse his works with profound emotion, divine inspiration, and a profound exploration of the human form.",
-    "image": "img/thecreationofeve.jpg"
+    "image": "img/thecreationofeve.jpg",
+    "slug": "the-creation-of-eve"
   },
   {
     "id": "17",
@@ -150,7 +166,8 @@
     "artist": "Raphael",
     "year": "1512-1513",
     "description": "The Sistine Madonna is a renowned painting created by the Italian artist Raphael during the High Renaissance period. It depicts the Virgin Mary holding the Christ Child, surrounded by saints and cherubs. The painting showcases Raphael's exceptional skill in composition, use of color, and the portrayal of human emotion. The Sistine Madonna is celebrated for its serene and ethereal beauty, capturing the spiritual essence of the subject matter. This artwork exemplifies the ideals of the Renaissance art movement, which emphasized the revival of classical themes, naturalistic representation, and the pursuit of harmonious beauty. Its influence can be seen in later Baroque and Rococo art, inspiring artists with its emotional depth and divine grace.",
-    "image": "img/thesistinemadonna.jpg"
+    "image": "img/thesistinemadonna.jpg",
+    "slug": "the-sistine-madonna"
   },
   {
     "id": "18",
@@ -159,7 +176,8 @@
     "artist": "Michelangelo",
     "year": "1536-1541",
     "description": "The Last Judgment is a monumental fresco painting created by Michelangelo, located on the altar wall of the Sistine Chapel in Vatican City. This awe-inspiring masterpiece depicts the final judgment of souls, as described in Christian theology. Michelangelo skillfully portrays the dramatic scene of Christ as the judge, surrounded by angels, saints, and figures representing both salvation and damnation. The composition is filled with dynamic movement, intense emotions, and intricate details, showcasing Michelangelo's mastery of anatomy, perspective, and the human form. The Last Judgment is a testament to the artist's extraordinary talent and his ability to capture the complexities of spiritual and human existence in a visually stunning and thought-provoking manner.",
-    "image": "img/thelastjudgment.jpg"
+    "image": "img/thelastjudgment.jpg",
+    "slug": "the-last-judgment"
   },
   {
     "id": "19",
@@ -168,7 +186,8 @@
     "artist": "Michelangelo",
     "year": "1501-1504",
     "description": "The David is a renowned marble sculpture created by the Italian artist Michelangelo. Standing at an impressive height of 17 feet, the statue depicts the biblical hero David, known for his triumph over the giant Goliath. Michelangelo's David captures the moment before the battle, showcasing the strength, determination, and youthful beauty of the protagonist. The sculpture is celebrated for its exceptional attention to detail, from the intricate musculature to the lifelike facial expression, reflecting Michelangelo's profound understanding of human anatomy and his ability to breathe life into stone. The David is considered one of the greatest masterpieces of the Renaissance, symbolizing the ideals of beauty, courage, and the indomitable spirit of human achievement.",
-    "image": "img/thedavid.jpg"
+    "image": "img/thedavid.jpg",
+    "slug": "the-david"
   },
   {
     "id": "20",
@@ -177,7 +196,8 @@
     "artist": "Sandro Botticelli",
     "year": "1477-1482",
     "description": "Primavera, meaning \"Spring\" in Italian, is a masterpiece of Renaissance art created by the Italian painter Sandro Botticelli. Painted around 1482, the artwork depicts a mythological scene with a group of figures set in a lush garden. At the center stands Venus, the goddess of love, surrounded by various mythological figures, including the Three Graces and Mercury. The painting is characterized by its vibrant colors, delicate details, and graceful figures, showcasing Botticelli's exceptional skill in capturing beauty and expressing narrative through art. Primavera is renowned for its symbolism, representing the rejuvenating power of spring, the celebration of love, and the harmonious balance between nature and culture. It is considered one of the most iconic and influential works of the Early Renaissance period.",
-    "image": "img/primavera.jpg"
+    "image": "img/primavera.jpg",
+    "slug": "primavera"
   },
   {
     "id": "21",
@@ -186,7 +206,8 @@
     "artist": "Caravaggio",
     "year": "1599",
     "description": "The Calling of St. Matthew is a renowned painting by Baroque master Caravaggio. Created during the 17th century, it exemplifies the distinctive characteristics of Baroque art. The painting depicts the biblical scene of Jesus calling Matthew, a tax collector, to become one of his disciples. Caravaggio's mastery of light and shadow, known as chiaroscuro, brings a sense of dramatic intensity to the composition. The use of realistic details and naturalistic figures enhances the emotional impact of the scene. The Calling of St. Matthew exemplifies the Baroque emphasis on capturing human emotions, creating a powerful and engaging visual narrative that became emblematic of the Baroque art movement.",
-    "image": "img/thecallingofstmatthew.jpg"
+    "image": "img/thecallingofstmatthew.jpg",
+    "slug": "the-calling-of-st-matthew"
   },
   {
     "id": "22",
@@ -195,7 +216,8 @@
     "artist": "Gian Lorenzo Bernini",
     "year": "1647-1652",
     "description": "The Ecstasy of St. Teresa is a captivating sculpture by Gian Lorenzo Bernini, representing a defining moment in Baroque art. Crafted during the 17th century, it exemplifies the dramatic and theatrical style of the Baroque movement. The sculpture depicts St. Teresa of Avila in a state of mystical ecstasy, experiencing a divine encounter with an angel. Bernini's remarkable skill in capturing dynamic movement and evoking intense emotions is showcased in the twisting and swirling drapery, expressive faces, and delicate details. The Ecstasy of St. Teresa epitomizes the Baroque fascination with religious fervor and the spiritual realm, capturing the viewers' imagination and engaging their senses in a profound and transformative experience.",
-    "image": "img/theecstasyofstteresa.jpg"
+    "image": "img/theecstasyofstteresa.jpg",
+    "slug": "the-ecstasy-of-st-teresa"
   },
   {
     "id": "23",
@@ -204,7 +226,8 @@
     "artist": "Rembrandt van Rijn",
     "year": "1642",
     "description": "A famous group portrait of a city militia, known as the The Night Watch is a monumental painting by Rembrandt van Rijn, considered one of the masterpieces of the Baroque art movement. Created during the 17th century, it exemplifies the dynamic and innovative style of the Baroque period. The painting depicts a group portrait of a militia company, capturing a moment of action and movement. Rembrandt's expert use of light and shadow, his skillful rendering of individual characters, and the dramatic composition showcase the artist's mastery. The Night Watch embodies the Baroque interest in capturing realism, theatricality, and a sense of motion, while also reflecting the social and cultural context of the time. It remains an iconic and influential work in the history of art.",
-    "image": "img/thenightwatch.jpg"
+    "image": "img/thenightwatch.jpg",
+    "slug": "the-night-watch"
   },
   {
     "id": "24",
@@ -213,7 +236,8 @@
     "artist": "Caravaggio",
     "year": "1601",
     "description": "The Conversion of St. Paul is a significant painting from the Baroque art movement. Created by Caravaggio, it exemplifies the dramatic and theatrical style characteristic of the period. The painting depicts the transformative moment when the biblical figure of St. Paul is struck by a divine light, leading to his conversion to Christianity. Caravaggio's mastery of chiaroscuro, the interplay of light and shadow, creates a sense of intense drama and emotional depth. The use of realism in portraying the figures and the powerful contrast between light and darkness add to the impact of the scene. The Conversion of St. Paul is a testament to the Baroque emphasis on capturing human emotion, theatricality, and the power of religious narratives in art.",
-    "image": "img/theconversionofstpaul.jpg"
+    "image": "img/theconversionofstpaul.jpg",
+    "slug": "the-conversion-of-st-paul"
   },
   {
     "id": "25",
@@ -222,7 +246,8 @@
     "artist": "Peter Paul Rubens",
     "year": "1610-1611",
     "description": "The Raising of the Cross is a monumental painting that exemplifies the dramatic and dynamic style of the Baroque art movement. Created by Peter Paul Rubens, it depicts the crucifixion of Jesus Christ with an emphasis on the physicality and emotional intensity of the scene. The painting showcases the muscular figures of Christ and the surrounding figures as they strain to lift the cross, capturing the moment of intense struggle and sacrifice. Rubens' mastery of color, light, and composition adds to the overall grandeur and impact of the painting. The Raising of the Cross exemplifies the Baroque fascination with theatricality, dynamic movement, and the portrayal of powerful religious narratives in art.",
-    "image": "img/theraisingofthecross.jpg"
+    "image": "img/theraisingofthecross.jpg",
+    "slug": "the-raising-of-the-cross"
   },
   {
     "id": "26",
@@ -231,7 +256,8 @@
     "artist": "Diego Velázquez",
     "year": "1645-1646",
     "description": "The Coronation of the Virgin is a prominent painting from the Baroque art movement, depicting the heavenly coronation of the Virgin Mary by the Holy Trinity. Created by Diego Velázquez, this masterpiece showcases his exceptional skill in capturing light, texture, and emotion. The painting portrays the celestial realm with a sense of awe and grandeur, emphasizing the divine majesty and celestial beauty. The Coronation of the Virgin exemplifies the Baroque's emphasis on religious themes and the use of dramatic lighting and rich colors to create a sense of spiritual transcendence. This artwork stands as a testament to the profound devotion and religious fervor of the Baroque era.",
-    "image": "img/thecoronationofthevirgin.jpg"
+    "image": "img/thecoronationofthevirgin.jpg",
+    "slug": "the-coronation-of-the-virgin"
   },
   {
     "id": "27",
@@ -240,7 +266,8 @@
     "artist": "Johannes Vermeer",
     "year": "1670-1672",
     "description": "The Triumph of Bacchus, painted by Diego Velázquez, is an iconic masterpiece of the Baroque art movement. The painting portrays the mythological god Bacchus surrounded by a lively group of revelers. The composition exudes energy and dynamism, with vibrant colors and intricate details. The Triumph of Bacchus exemplifies the Baroque fascination with dramatic narratives, sensual aesthetics, and a celebration of life's pleasures. It captures the essence of the era's artistic style, characterized by its boldness, theatricality, and emotional intensity. The painting's lively atmosphere and Bacchus' joyful presence encapsulate the spirit of the Baroque period, where art sought to engage the viewer's senses and evoke powerful emotions.",
-    "image": "img/theallegoryofthefaith.jpg"
+    "image": "img/theallegoryofthefaith.jpg",
+    "slug": "the-allegory-of-the-faith"
   },
   {
     "id": "28",
@@ -249,7 +276,8 @@
     "artist": "Diego Velázquez",
     "year": "1628-1629",
     "description": "The Triumph of Bacchus, painted by Diego Velázquez, is an iconic masterpiece of the Baroque art movement. The painting portrays the mythological god Bacchus surrounded by a lively group of revelers. The composition exudes energy and dynamism, with vibrant colors and intricate details. The Triumph of Bacchus exemplifies the Baroque fascination with dramatic narratives, sensual aesthetics, and a celebration of life's pleasures. It captures the essence of the era's artistic style, characterized by its boldness, theatricality, and emotional intensity. The painting's lively atmosphere and Bacchus' joyful presence encapsulate the spirit of the Baroque period, where art sought to engage the viewer's senses and evoke powerful emotions.",
-    "image": "img/thetriumphofbacchus.jpg"
+    "image": "img/thetriumphofbacchus.jpg",
+    "slug": "the-triumph-of-bacchus"
   },
   {
     "id": "29",
@@ -258,7 +286,8 @@
     "artist": "Caravaggio",
     "year": "1603",
     "description": "The Sacrifice of Isaac, painted by Caravaggio, is a powerful depiction of the biblical story of Abraham's willingness to sacrifice his son Isaac. The painting captures the intense moment of tension and emotion as Abraham prepares to carry out the act. Caravaggio's masterful use of light and shadow creates a dramatic effect, emphasizing the psychological turmoil experienced by the characters. The Sacrifice of Isaac is a significant work of the Baroque art movement, showcasing the movement's characteristic use of chiaroscuro and its exploration of human emotion. It exemplifies the Baroque fascination with dramatic narratives, intense contrasts, and a profound exploration of human psychology and faith.",
-    "image": "img/thesacrificeofisaac.jpg"
+    "image": "img/thesacrificeofisaac.jpg",
+    "slug": "the-sacrifice-of-isaac"
   },
   {
     "id": "30",
@@ -267,7 +296,8 @@
     "artist": "Rembrandt van Rijn",
     "year": "1632",
     "description": "The Anatomy Lesson of Dr. Nicolaes Tulp, painted by Rembrandt, is a remarkable example of the Baroque art movement. The painting depicts a group of surgeons gathered around the dissected body of a cadaver, led by Dr. Nicolaes Tulp. Rembrandt's attention to detail and his skillful use of light and shadow bring the scene to life, creating a sense of depth and realism. The composition and the focus on the human figure reflect the Baroque interest in capturing the human experience and the exploration of human anatomy. The Anatomy Lesson of Dr. Nicolaes Tulp is not only a significant work of art but also a testament to the advancements in scientific knowledge during the Baroque era.",
-    "image": "img/theanatomylessonofdrnicolaestulp.jpg"
+    "image": "img/theanatomylessonofdrnicolaestulp.jpg",
+    "slug": "the-anatomy-lesson-of-dr-nicolaes-tulp"
   },
   {
     "id": "31",
@@ -276,7 +306,8 @@
     "artist": "Jacques-Louis David",
     "year": "1793",
     "description": "The Death of Marat is an iconic painting by Neoclassical artist Jacques-Louis David. Created during the French Revolution, it depicts the murdered revolutionary leader Jean-Paul Marat in a neoclassical style. The composition is marked by its simplicity and clarity, reminiscent of classical Greek and Roman art. The figure of Marat, bathed in soft light, is portrayed with idealized beauty and dignity. The painting's focus on moral and political ideals, as well as its emphasis on classical forms and principles, exemplify the Neoclassical movement's return to the aesthetics of ancient Greece and Rome. The Death of Marat stands as a powerful testament to the Neoclassical era's fusion of art and politics.",
-    "image": "img/thedeathofmarat.jpg"
+    "image": "img/thedeathofmarat.jpg",
+    "slug": "the-death-of-marat"
   },
   {
     "id": "32",
@@ -285,7 +316,8 @@
     "artist": "Jacques-Louis David",
     "year": "1784",
     "description": "The Oath of the Horatii is a renowned painting by Neoclassical artist Jacques-Louis David. Created during the French Revolution, it depicts a scene from Roman history, where three Roman brothers take a solemn oath to defend Rome against Alba Longa. The painting exemplifies the Neoclassical movement's fascination with ancient history and its commitment to moral and patriotic themes. The composition is characterized by its strong lines, precise details, and restrained color palette, reflecting the influence of classical Greek and Roman art. The Oath of the Horatii encapsulates the Neoclassical spirit of heroism, sacrifice, and devotion to duty, and remains a powerful symbol of the movement's reverence for classical ideals.",
-    "image": "img/oathofthehoratii.jpg"
+    "image": "img/oathofthehoratii.jpg",
+    "slug": "oath-of-the-horatii"
   },
   {
     "id": "33",
@@ -294,7 +326,8 @@
     "artist": "Francisco Goya",
     "year": "1799",
     "description": "The Sleep of Reason Produces Monsters is a renowned etching by Spanish artist Francisco Goya. Created during the Romantic period, it is part of his series of prints titled \"Los Caprichos.\" The etching depicts a man resting his head on a desk, surrounded by various creatures and ominous figures. The artwork reflects Goya's exploration of the dark and irrational aspects of human existence. It is often interpreted as a critique of the ignorance, superstition, and irrationality that Goya observed in society. The Sleep of Reason Produces Monsters exemplifies the Romantic movement's interest in exploring the complexities of the human psyche and challenging conventional norms and beliefs.",
-    "image": "img/thesleepofreasonproducesmonsters.jpg"
+    "image": "img/thesleepofreasonproducesmonsters.jpg",
+    "slug": "the-sleep-of-reason-produces-monsters"
   },
   {
     "id": "34",
@@ -303,7 +336,8 @@
     "artist": "Jacques-Louis David",
     "year": "1801",
     "description": "Napoleon Crossing the Alps is an iconic painting by French Neoclassical artist Jacques-Louis David. Created during the early 19th century, it is a grand portrayal of Napoleon Bonaparte on horseback, crossing the treacherous terrain of the Alps. The painting captures the heroic and powerful image of Napoleon, emphasizing his leadership and determination. With its monumental scale and meticulous attention to detail, the artwork exemplifies the Neoclassical style, which sought inspiration from classical antiquity and aimed to convey moral and political ideals. Napoleon Crossing the Alps reflects the neoclassical emphasis on heroism, grandeur, and the celebration of historical events and figures.",
-    "image": "img/napoleoncrossingthealps.jpg"
+    "image": "img/napoleoncrossingthealps.jpg",
+    "slug": "napoleon-crossing-the-alps"
   },
   {
     "id": "35",
@@ -312,7 +346,8 @@
     "artist": "Francisco Goya",
     "year": "1814",
     "description": "The Third of May 1808, also known as The Execution of the Defenders of Madrid, is a significant painting by Spanish Romantic artist Francisco Goya. Created in the early 19th century, it depicts the brutal execution of Spanish civilians by French soldiers during the Peninsular War. The painting is renowned for its emotional intensity and dramatic composition. Goya masterfully captures the despair, fear, and tragedy of the event, highlighting the suffering of the innocent victims. The Third of May 1808 is considered a powerful critique of war and oppression, and it exemplifies the Romantic movement's emphasis on individual emotion, social commentary, and the exploration of human suffering and resilience.",
-    "image": "img/thethirdofmay1808.jpg"
+    "image": "img/thethirdofmay1808.jpg",
+    "slug": "the-third-of-may-1808"
   },
   {
     "id": "36",
@@ -321,7 +356,8 @@
     "artist": "Antonio Canova",
     "year": "1787-1793",
     "description": "Cupid and Psyche is a captivating painting that showcases the mythical love story between the mortal Psyche and the god of love, Cupid. Created by neoclassical artist Jacques-Louis David, the artwork exemplifies the neoclassical style of the late 18th and early 19th centuries. Drawing inspiration from ancient Greek and Roman art, David's painting depicts the moment when Cupid revives the lifeless Psyche with a tender kiss. The painting embodies the neoclassical ideals of beauty, harmony, and idealized forms, while also conveying a sense of emotional depth and narrative storytelling. Cupid and Psyche serves as a testament to the neoclassical movement's revival of classical themes and its pursuit of timeless elegance and refinement.",
-    "image": "img/cupidandpsyche.jpg"
+    "image": "img/cupidandpsyche.jpg",
+    "slug": "cupid-and-psyche"
   },
   {
     "id": "37",
@@ -330,7 +366,8 @@
     "artist": "Théodore Géricault",
     "year": "1818-1819",
     "description": "The Raft of the Medusa is an iconic painting by Théodore Géricault that exemplifies the artistic style of Romanticism. The artwork depicts the aftermath of a shipwreck where survivors are stranded on a makeshift raft in the open sea. Géricault's masterpiece captures the dramatic and emotional intensity of the harrowing event, highlighting themes of human suffering, survival, and the struggle against nature's forces. The painting's monumental scale and detailed depiction of the figures showcase the artist's commitment to realism and his desire to convey the raw and poignant experiences of the human condition. The Raft of the Medusa stands as a powerful symbol of Romanticism's emphasis on individualism, emotions, and the exploration of the sublime.",
-    "image": "img/theraftofthemedusa.jpg"
+    "image": "img/theraftofthemedusa.jpg",
+    "slug": "the-raft-of-the-medusa"
   },
   {
     "id": "38",
@@ -339,7 +376,8 @@
     "artist": "Jacques-Louis David",
     "year": "1812",
     "description": "The Emperor Napoleon in His Study at the Tuileries is a significant artwork that emerged during the Neoclassical period. Painted by Jacques-Louis David, the piece portrays Napoleon Bonaparte in a private setting, surrounded by symbols of power and intellect. The painting exemplifies the Neoclassical style through its emphasis on order, clarity, and idealized forms. The composition reflects the artist's admiration for Napoleon as a heroic figure, while also conveying the grandeur and authority associated with the Emperor. Through its meticulous attention to detail and classical aesthetics, The Emperor Napoleon in His Study at the Tuileries exemplifies the Neoclassical movement's commitment to rationality, balance, and the revival of ancient artistic traditions.",
-    "image": "img/theemperornapoleoninhisstudyatthetuileries.jpg"
+    "image": "img/theemperornapoleoninhisstudyatthetuileries.jpg",
+    "slug": "the-emperor-napoleon-in-his-study-at-the-tuileries"
   },
   {
     "id": "39",
@@ -348,7 +386,8 @@
     "artist": "Jacques-Louis David",
     "year": "1805-1807",
     "description": "The Coronation of Napoleon, created by Jacques-Louis David, is an iconic painting of the Neoclassical period. It depicts the coronation ceremony of Napoleon Bonaparte as Emperor of the French in 1804. The artwork showcases the grandeur and spectacle of the event, with Napoleon and his wife, Josephine, positioned at the center of the composition. The painting reflects the Neoclassical style through its meticulous attention to detail, idealized figures, and classical references. It symbolizes Napoleon's desire to associate himself with the grandeur of ancient rulers and showcases the Neoclassical movement's emphasis on order, harmony, and the revival of classical aesthetics.",
-    "image": "img/thecoronationofnapoleon.jpg"
+    "image": "img/thecoronationofnapoleon.jpg",
+    "slug": "the-coronation-of-napoleon"
   },
   {
     "id": "40",
@@ -357,7 +396,8 @@
     "artist": "John Constable",
     "year": "1821",
     "description": "The Hay Wain, painted by John Constable, is a masterpiece of the Romantic period. It portrays a rural landscape with a hay wain, or a horse-drawn cart, crossing a river. The painting captures the beauty and tranquility of the English countryside, showcasing the Romantic movement's appreciation for nature and its sublime qualities. The Hay Wain is characterized by its detailed and realistic depiction of the landscape, emphasizing the changing light and atmospheric conditions. It reflects the Romantic ideals of individuality, emotion, and a deep connection with nature. The painting's timeless and universal appeal continues to captivate viewers, making it one of Constable's most renowned works.",
-    "image": "img/thehaywain.jpg"
+    "image": "img/thehaywain.jpg",
+    "slug": "the-hay-wain"
   },
   {
     "id": "41",
@@ -366,7 +406,8 @@
     "artist": "Caspar David Friedrich",
     "year": "1818",
     "description": "Wanderer above the Sea of Fog, painted by Caspar David Friedrich, is an iconic work of the Romantic art movement. The painting depicts a solitary figure standing on a rocky precipice, gazing out at a vast and mysterious sea of fog. It embodies the Romantic fascination with the sublime, evoking feelings of awe, wonder, and introspection. The figure's position and the dramatic landscape convey a sense of contemplation and the exploration of the individual's relationship with nature and the infinite. Wanderer above the Sea of Fog captures the essence of Romanticism, with its emphasis on emotion, imagination, and the power of the natural world to evoke profound thoughts and emotions.",
-    "image": "img/wandererabovetheseaoffog.jpg"
+    "image": "img/wandererabovetheseaoffog.jpg",
+    "slug": "wanderer-above-the-sea-of-fog"
   },
   {
     "id": "42",
@@ -375,7 +416,8 @@
     "artist": "Eugène Delacroix",
     "year": "1830",
     "description": "Liberty Leading the People, painted by Eugène Delacroix, is an iconic masterpiece of the Romantic art movement. The painting depicts a powerful allegory of liberty and revolution, showcasing a symbolic figure of Liberty leading a diverse group of people in their struggle for freedom. The painting captures the spirit of the Romantic era with its emphasis on passion, emotion, and the celebration of individuality. The vibrant and dynamic composition, the use of bold colors, and the depiction of historical events and political turmoil all contribute to the Romantic sensibility of the artwork. Liberty Leading the People stands as a powerful testament to the Romantic ideals of liberty, equality, and the pursuit of social justice.",
-    "image": "img/libertyleadingthepeople.jpg"
+    "image": "img/libertyleadingthepeople.jpg",
+    "slug": "liberty-leading-the-people"
   },
   {
     "id": "43",
@@ -384,7 +426,8 @@
     "artist": "Henry Fuseli",
     "year": "1781",
     "description": "The Nightmare, created by Henry Fuseli, is a captivating painting that exemplifies the essence of the Romantic art movement. This haunting and enigmatic artwork explores the realm of dreams and the human psyche, tapping into the mysterious and supernatural aspects of human experience. The painting features a woman in a state of sleep, with a demonic figure crouched upon her chest, surrounded by other eerie and fantastical elements. The Nightmare embraces the Romantic fascination with the irrational, the sublime, and the exploration of the darker aspects of the human mind. Through its evocative imagery and imaginative subject matter, The Nightmare embodies the spirit of Romanticism by evoking powerful emotions and delving into the depths of the human subconscious.",
-    "image": "img/thenightmare.jpg"
+    "image": "img/thenightmare.jpg",
+    "slug": "the-nightmare"
   },
   {
     "id": "44",
@@ -393,7 +436,8 @@
     "artist": "J.M.W. Turner",
     "year": "1839",
     "description": "The Fighting Temeraire, painted by J.M.W. Turner, is an iconic masterpiece that encapsulates the essence of the Romantic art movement. Depicting a majestic sailing ship being towed by a steam-powered tugboat, the painting explores themes of nostalgia, transition, and the passage of time. The contrast between the graceful, fading ship and the powerful industrial vessel symbolizes the shift from the age of sail to the era of steam. Through his use of luminous colors, dramatic lighting, and expressive brushwork, Turner creates a poignant and atmospheric scene that captures the viewer's imagination. The Fighting Temeraire embodies the Romantic fascination with the sublime, the contemplation of nature, and the exploration of human emotions, making it an enduring symbol of the Romantic art movement.",
-    "image": "img/thefightingtemeraire.jpg"
+    "image": "img/thefightingtemeraire.jpg",
+    "slug": "the-fighting-temeraire"
   },
   {
     "id": "45",
@@ -402,7 +446,8 @@
     "artist": "J.M.W. Turner",
     "year": "1840",
     "description": "The Slave Ship, also known as Slavers Throwing Overboard the Dead and Dying, by J.M.W. Turner, is a powerful and evocative painting that exemplifies the spirit of the Romantic art movement. Depicting a turbulent sea scattered with drowning slaves and discarded bodies, the artwork serves as a haunting critique of the transatlantic slave trade. Turner's use of vibrant colors, swirling brushstrokes, and dramatic composition conveys a sense of chaos and horror, while also capturing the sublime forces of nature. The Slave Ship reflects the Romantic fascination with moral and political themes, as well as the exploration of humanity's relationship with nature and the darker aspects of human existence. It stands as a poignant reminder of the atrocities committed during the era and the artist's impassioned plea for justice and compassion.",
-    "image": "img/theslaveship.jpg"
+    "image": "img/theslaveship.jpg",
+    "slug": "the-slave-ship"
   },
   {
     "id": "46",
@@ -411,7 +456,8 @@
     "artist": "Jean-Léon Gérôme",
     "year": "1866",
     "description": "The Slave Market, painted by Jean-Léon Gérôme, is a significant artwork that embodies the themes and style of the Orientalist movement within the broader context of Romanticism. The painting portrays a scene of a North African slave market, with enslaved individuals being presented for sale to potential buyers. Gérôme's meticulous attention to detail, vibrant colors, and precise rendering create a visually compelling composition. The artwork captures the exoticism and fascination with the \"other\" prevalent in Orientalist art, while also highlighting the harsh realities of the slave trade. The Slave Market serves as a reflection of the Romantic era's interest in exploring distant lands, cultural encounters, and social critiques, shedding light on the darker aspects of human history and challenging prevailing notions of power, exploitation, and inequality.",
-    "image": "img/theslavemarket.jpg"
+    "image": "img/theslavemarket.jpg",
+    "slug": "the-slave-market"
   },
   {
     "id": "47",
@@ -420,7 +466,8 @@
     "artist": "Winslow Homer",
     "year": "1866",
     "description": "The Fighting Cocks, painted by Francisco de Goya, is a captivating artwork that exemplifies the themes and techniques of the Romantic art movement. The painting depicts two roosters engaged in a fierce battle, their feathers ruffled and their bodies contorted in a display of intense aggression. Goya's brushwork captures the dynamic energy and raw emotions of the scene, highlighting the power and brutality of the animal kingdom. The artwork reflects the Romantic fascination with the sublime, the untamed forces of nature, and the exploration of intense emotions. Through The Fighting Cocks, Goya invites viewers to contemplate the primal instincts, the cycle of life and death, and the unbridled passion that exists in the natural world.",
-    "image": "img/thefightingcocks.jpg"
+    "image": "img/thefightingcocks.jpg",
+    "slug": "the-fighting-cocks"
   },
   {
     "id": "48",
@@ -429,7 +476,8 @@
     "artist": "Thomas Cole",
     "year": "1836",
     "description": "The Oxbow, painted by Thomas Cole, is a significant artwork of the Romantic art movement that showcases the sublime beauty of the American landscape. The painting depicts a panoramic view of a meandering river surrounded by lush greenery, with a stormy sky looming overhead. In the foreground, the artist includes an oxbow bend, a curved section of the river, which symbolizes the journey and exploration of the American frontier. The Oxbow reflects the Romantic fascination with nature, the sublime, and the exploration of the untamed wilderness. It invites viewers to contemplate the awe-inspiring power of nature and the interconnectedness between man and the natural world.",
-    "image": "img/theoxbow.jpg"
+    "image": "img/theoxbow.jpg",
+    "slug": "the-oxbow"
   },
   {
     "id": "49",
@@ -438,7 +486,8 @@
     "artist": "Paul Delaroche",
     "year": "1833",
     "description": "The Execution of Lady Jane Grey, painted by Paul Delaroche, is a poignant artwork that captures a dramatic moment from history and exemplifies the Romantic art movement. The painting depicts the young Lady Jane Grey, who was briefly Queen of England, moments before her execution. She is shown in a white gown, surrounded by somber figures and positioned on the scaffold, symbolizing the impending tragedy. Delaroche's masterful use of light and shadow, along with his attention to emotional detail, evokes a sense of empathy and captures the intense human drama of the scene. The Execution of Lady Jane Grey embodies the Romantic fascination with individualism, emotion, and historical subject matter, inviting viewers to reflect on themes of power, fate, and the fragility of human life.",
-    "image": "img/theexecutionofladyjanegrey.jpg"
+    "image": "img/theexecutionofladyjanegrey.jpg",
+    "slug": "the-execution-of-lady-jane-grey"
   },
   {
     "id": "50",
@@ -447,7 +496,8 @@
     "artist": "Caspar David Friedrich",
     "year": "1824",
     "description": "The Evening Star, painted by Joseph Mallord William Turner, is a sublime masterpiece that epitomizes the Romantic art movement. The painting depicts a tranquil scene of a radiant evening sky with a bright star shining above a serene landscape. Turner's use of vibrant colors and atmospheric effects creates a dreamlike and ethereal ambiance, evoking a sense of awe and wonder in the viewer. The Evening Star captures the Romantic fascination with nature, spirituality, and the sublime. It invites viewers to contemplate the beauty and power of the natural world and to find solace and inspiration in its transcendent qualities.",
-    "image": "img/theeveningstar.jpg"
+    "image": "img/theeveningstar.jpg",
+    "slug": "the-evening-star"
   },
   {
     "id": "51",
@@ -456,7 +506,8 @@
     "artist": "Jean-François Millet",
     "year": "1857",
     "description": "The Gleaners is a renowned painting by Jean-François Millet, a significant work of the Realism art movement. Created in 1857, the painting depicts three rural women stooping in a field, collecting leftover crops after the harvest. The artwork captures the dignity and perseverance of the working class, reflecting the social realities of the time. Millet's attention to detail and focus on the lives of ordinary people exemplify the core principles of Realism. The Gleaners became an emblematic representation of the movement, highlighting the artist's commitment to portraying the hardships and struggles of the working class and shedding light on societal inequalities.",
-    "image": "img/thegleaners.jpg"
+    "image": "img/thegleaners.jpg",
+    "slug": "the-gleaners"
   },
   {
     "id": "52",
@@ -465,7 +516,8 @@
     "artist": "Gustave Courbet",
     "year": "1849",
     "description": "The Stone Breakers is an influential artwork by Gustave Courbet, a seminal piece within the Realism art movement. Painted in 1849, it depicts two laborers, one old and the other young, engaged in the backbreaking task of breaking stones on a roadside. Courbet's painting presents a stark and unidealized representation of the working class, highlighting the harsh conditions and the plight of manual laborers. The Stone Breakers exemplifies the Realist objective of depicting the realities of everyday life, shedding light on social inequality and the hardships faced by the lower class. Through its powerful portrayal, the artwork challenges romanticized notions of labor and emphasizes the need for social reform.",
-    "image": "img/thestonebreakers.jpg"
+    "image": "img/thestonebreakers.jpg",
+    "slug": "the-stone-breakers"
   },
   {
     "id": "53",
@@ -474,7 +526,8 @@
     "artist": "Édouard Manet",
     "year": "1863",
     "description": "Olympia is an iconic painting by Édouard Manet, a significant work associated with the Realism art movement. Created in 1863, it depicts a reclining nude woman, identified as a courtesan, confidently staring directly at the viewer. Olympia's confrontational gaze and her status as a sex worker challenged traditional artistic conventions and societal norms of the time. The painting caused controversy due to its subject matter and the unapologetic depiction of a woman in a position of power. Olympia is considered a seminal work of Realism as it defied idealized portrayals and instead offered a raw and unflinching representation of the realities of the contemporary world.",
-    "image": "img/olympia.jpg"
+    "image": "img/olympia.jpg",
+    "slug": "olympia"
   },
   {
     "id": "54",
@@ -483,7 +536,8 @@
     "artist": "Gustave Courbet",
     "year": "1849-1850",
     "description": "A Burial at Ornans is a renowned painting by Gustave Courbet, a notable work associated with the Realism art movement. Completed in 1849-1850, it depicts a funeral procession in the artist's hometown of Ornans, France. The painting showcases a realistic portrayal of mourners, emphasizing the ordinary people rather than idealized figures. Courbet's intention was to capture the essence of everyday life and convey the human experience in a direct and unadorned manner. A Burial at Ornans challenged the traditional conventions of grand historical or mythological subjects and instead celebrated the ordinary and mundane. The painting exemplifies the principles of Realism by focusing on the truthful representation of the contemporary world.",
-    "image": "img/aburialatornans.jpg"
+    "image": "img/aburialatornans.jpg",
+    "slug": "a-burial-at-ornans"
   },
   {
     "id": "55",
@@ -492,7 +546,8 @@
     "artist": "Édouard Manet",
     "year": "1873",
     "description": "The Railway, painted by Édouard Manet in 1873, is a significant work associated with the Realism art movement. It depicts a scene at the Gare Saint-Lazare in Paris, showcasing a modern railway platform with passengers waiting for their trains. The painting captures the industrialization and urbanization of the time, portraying everyday life in a rapidly changing society. Manet's deliberate focus on ordinary subjects and his rejection of idealized depictions align with the principles of Realism. The Railway is regarded as a pioneering work that challenged traditional artistic norms and emphasized the portrayal of contemporary life in all its realistic and unfiltered aspects.",
-    "image": "img/therailway.jpg"
+    "image": "img/therailway.jpg",
+    "slug": "the-railway"
   },
   {
     "id": "56",
@@ -501,7 +556,8 @@
     "artist": "Rosa Bonheur",
     "year": "1852-1855",
     "description": "The Horse Fair, painted by Rosa Bonheur in 1853-1855, is a renowned work associated with the Realism art movement. It depicts a vibrant and dynamic scene of a horse market, showcasing a group of horses and their handlers in action. The painting captures the energy, strength, and beauty of these magnificent animals, while also providing a realistic portrayal of the bustling market atmosphere. Bonheur's attention to detail, anatomical accuracy, and emphasis on capturing the essence of the subject align with the principles of Realism. The Horse Fair is regarded as a masterpiece that celebrates the working class, rural life, and the majesty of animals, embodying the spirit of Realism in its honest depiction of everyday reality.",
-    "image": "img/thehorsefair.jpg"
+    "image": "img/thehorsefair.jpg",
+    "slug": "the-horse-fair"
   },
   {
     "id": "57",
@@ -510,7 +566,8 @@
     "artist": "Honoré Daumier",
     "year": "1862-1864",
     "description": "The Third-Class Carriage, painted by Honoré Daumier in 1862, is a notable work associated with the Realism art movement. It depicts a scene inside a crowded and modest railway carriage, occupied by working-class individuals and families. The painting highlights the social realities and disparities of the time, focusing on the marginalized and underrepresented members of society. Daumier's attention to detail and his ability to capture the expressions, postures, and interactions of the passengers convey a sense of empathy and human connection. The Third-Class Carriage reflects the Realist aim of representing the everyday lives of ordinary people and shedding light on the social and economic conditions of the working class.",
-    "image": "img/thethirdclasscarriage.jpg"
+    "image": "img/thethirdclasscarriage.jpg",
+    "slug": "the-third-class-carriage"
   },
   {
     "id": "58",
@@ -519,7 +576,8 @@
     "artist": "Jean-François Millet",
     "year": "1857-1859",
     "description": "The Angelus, painted by Jean-François Millet in 1857-1859, is a significant work within the Realism art movement. It portrays a peasant couple, standing in a field with their heads bowed in prayer, as they pause to observe the ringing of the evening church bells. The painting captures a quiet and contemplative moment of devotion in the everyday life of rural peasants. The Angelus reflects the Realist interest in depicting ordinary people and their daily activities with sincerity and authenticity. Through its attention to detail, atmospheric lighting, and subtle symbolism, the painting evokes a sense of spirituality, humility, and the importance of faith in the lives of the working class.",
-    "image": "img/theangelus.jpg"
+    "image": "img/theangelus.jpg",
+    "slug": "the-angelus"
   },
   {
     "id": "59",
@@ -528,7 +586,8 @@
     "artist": "Gustave Courbet",
     "year": "1854",
     "description": "The Grain Sifters, also known as Les Cribleuses de Blé, is a painting by Gustave Courbet created in 1854. It exemplifies the principles of the Realism art movement by portraying the laborious work of rural women in the process of sifting grain. The painting depicts three women engrossed in their task, diligently sifting through the harvested wheat. Courbet's attention to detail and focus on the ordinary aspects of everyday life highlight the realities of manual labor and the socioeconomic conditions of the working class. The Grain Sifters captures the essence of Realism by presenting an unromanticized view of rural labor and emphasizing the dignity of the workers.",
-    "image": "img/thegrainsifters.jpg"
+    "image": "img/thegrainsifters.jpg",
+    "slug": "the-grain-sifters"
   },
   {
     "id": "60",
@@ -537,7 +596,8 @@
     "artist": "Édouard Manet",
     "year": "1859-1860",
     "description": "The Absinthe Drinker, painted by Édouard Manet in 1859, is a significant work of the Realism art movement. The painting portrays a solitary figure, a man sitting at a café table, engrossed in his own thoughts while holding a glass of absinthe. The scene depicts the gritty reality of urban life, capturing the somber atmosphere and the alienation experienced by individuals in a rapidly changing society. The Absinthe Drinker reflects the social concerns of the time, addressing themes of addiction, isolation, and the struggles of everyday existence. With its unflinching portrayal of a marginalized individual, the painting epitomizes the Realist approach of presenting life as it is, unadorned by idealism or romanticism.",
-    "image": "img/theabsinthedrinker.jpg"
+    "image": "img/theabsinthedrinker.jpg",
+    "slug": "the-absinthe-drinker"
   },
   {
     "id": "61",
@@ -546,7 +606,8 @@
     "artist": "Claude Monet",
     "year": "1872",
     "description": "Impression, Sunrise is a seminal work by Claude Monet, often regarded as the catalyst for the Impressionism art movement. Painted in 1872, it depicts a misty harbor scene at Le Havre, with the rising sun casting its gentle glow on the water and boats. The painting's loose brushwork and vibrant color palette, combined with the emphasis on capturing the play of light and atmosphere, epitomize the core principles of Impressionism. Through this work, Monet sought to convey the fleeting nature of light and evoke a sense of atmosphere and mood rather than precise details. Impression, Sunrise sparked a revolution in art, inspiring a generation of artists to break free from traditional conventions and explore the realm of subjective perception and the beauty of fleeting moments.",
-    "image": "img/impressionsunrise.jpg"
+    "image": "img/impressionsunrise.jpg",
+    "slug": "impression-sunrise"
   },
   {
     "id": "62",
@@ -555,7 +616,8 @@
     "artist": "Édouard Manet",
     "year": "1882",
     "description": "A Bar at the Folies-Bergère is an iconic painting by Édouard Manet that exemplifies the Impressionism art movement. Created in 1882, it portrays a scene inside the famous Parisian cabaret, capturing a complex narrative of social interactions and reflections. The painting showcases Manet's mastery of light, color, and composition, as well as his ability to capture the modernity and atmosphere of urban life. Through loose brushwork, bold colors, and fragmented perspectives, Manet explores the theme of perception and the blurred boundaries between reality and illusion. A Bar at the Folies-Bergère represents the Impressionists' departure from traditional academic techniques and their pursuit of capturing fleeting moments and subjective experiences.",
-    "image": "img/abaratthefoliesbergere.jpg"
+    "image": "img/abaratthefoliesbergere.jpg",
+    "slug": "a-bar-at-the-folies-bergre"
   },
   {
     "id": "63",
@@ -564,7 +626,8 @@
     "artist": "Claude Monet",
     "year": "1914-1926",
     "description": "Water Lilies is a series of paintings by Claude Monet, one of the key figures of the Impressionism art movement. Created between the late 19th and early 20th centuries, these paintings depict Monet's garden at Giverny, specifically the water lily pond and its surroundings. The series is characterized by its focus on capturing the play of light, color, and reflections on the water's surface, as well as the delicate beauty of the water lilies and other plants. Monet's use of loose brushwork and vibrant colors creates an immersive and dreamlike atmosphere, emphasizing the sensory experience of being in nature. Water Lilies exemplifies the Impressionists' fascination with capturing the fleeting and ever-changing qualities of light and the natural world.",
-    "image": "img/waterlilies.jpg"
+    "image": "img/waterlilies.jpg",
+    "slug": "water-lilies"
   },
   {
     "id": "64",
@@ -573,7 +636,8 @@
     "artist": "Pierre-Auguste Renoir",
     "year": "1876",
     "description": "Dance at the Moulin de la Galette is a renowned painting by Pierre-Auguste Renoir, a prominent artist of the Impressionism art movement. Created in 1876, the painting depicts a vibrant scene at an outdoor dance venue in Montmartre, Paris. Renoir captures the joyful and lively atmosphere of the dance, showcasing people socializing, dancing, and enjoying themselves. The painting is characterized by Renoir's loose brushwork, vibrant colors, and emphasis on capturing the effects of natural light. Dance at the Moulin de la Galette exemplifies the Impressionists' interest in capturing everyday life and fleeting moments, as well as their exploration of light, movement, and the vibrant energy of urban settings.",
-    "image": "img/danceatthemoulindelagalette.jpg"
+    "image": "img/danceatthemoulindelagalette.jpg",
+    "slug": "dance-at-the-moulin-de-la-galette"
   },
   {
     "id": "65",
@@ -582,7 +646,8 @@
     "artist": "Vincent van Gogh",
     "year": "1888",
     "description": "Starry Night Over the Rhône is a notable painting by Vincent van Gogh, an influential artist associated with the Post-Impressionism art movement. Created in 1888, the painting portrays a night scene along the Rhône River in Arles, France. Van Gogh's distinctive brushwork and use of bold, vibrant colors bring the night sky to life, with swirling stars and reflections on the water. The painting captures a sense of tranquility and wonder, inviting viewers to contemplate the beauty of the night and the interplay between light and darkness. Starry Night Over the Rhône exemplifies van Gogh's unique artistic style and his exploration of emotional expression through color and texture.",
-    "image": "img/starrynightovertherhone.jpg"
+    "image": "img/starrynightovertherhone.jpg",
+    "slug": "starry-night-over-the-rhne"
   },
   {
     "id": "66",
@@ -591,7 +656,8 @@
     "artist": "Claude Monet",
     "year": "1875",
     "description": "Woman with a Parasol, also known as Madame Monet and Her Son, is a renowned painting by Claude Monet, a prominent artist associated with the Impressionism art movement. Created in 1875, the painting depicts a woman, identified as Monet's wife Camille, and their young son Jean walking in a sunlit meadow. The artwork captures a spontaneous moment, with loose brushstrokes and vibrant colors that convey the effects of light and movement. Monet's emphasis on capturing fleeting impressions and the play of light on different surfaces is characteristic of Impressionism. Woman with a Parasol showcases Monet's ability to capture the beauty of everyday life and the transient nature of the natural world.",
-    "image": "img/womanwithaparasol.jpg"
+    "image": "img/womanwithaparasol.jpg",
+    "slug": "woman-with-a-parasol"
   },
   {
     "id": "67",
@@ -600,7 +666,8 @@
     "artist": "Edgar Degas",
     "year": "1874",
     "description": "The Dance Class is a renowned painting by Edgar Degas, a prominent artist associated with the Impressionism art movement. Created in 1874, the painting depicts a ballet class in progress, with dancers rehearsing their moves under the guidance of a ballet master. Degas, known for his fascination with capturing scenes from everyday life, portrays the grace, elegance, and discipline of ballet through his meticulous attention to detail. The painting showcases Degas' mastery of composition, light, and movement, as he captures the dynamic poses and gestures of the dancers. The Dance Class exemplifies the Impressionist interest in capturing fleeting moments and exploring the interplay between light, color, and human subjects.",
-    "image": "img/thedanceclass.jpg"
+    "image": "img/thedanceclass.jpg",
+    "slug": "the-dance-class"
   },
   {
     "id": "68",
@@ -609,7 +676,8 @@
     "artist": "Claude Monet",
     "year": "1899",
     "description": "Bridge Over a Pond of Water Lilies is a notable painting by Claude Monet, a key figure in the Impressionism art movement. Created in 1899, the artwork showcases Monet's signature style of capturing the effects of light and color in outdoor scenes. The painting depicts a wooden bridge crossing over a pond filled with vibrant water lilies, surrounded by lush foliage. Monet's loose brushwork and use of vibrant hues create a sense of movement and atmosphere, emphasizing the ephemeral nature of light and the ever-changing reflections on the water's surface. Bridge Over a Pond of Water Lilies exemplifies Monet's fascination with nature and his innovative approach to capturing its beauty through the lens of Impressionism.",
-    "image": "img/bridgeoverapondofwaterlilies.jpg"
+    "image": "img/bridgeoverapondofwaterlilies.jpg",
+    "slug": "bridge-over-a-pond-of-water-lilies"
   },
   {
     "id": "69",
@@ -618,7 +686,8 @@
     "artist": "Édouard Manet",
     "year": "1863",
     "description": "The Luncheon on the Grass (Le déjeuner sur l'herbe) is a renowned painting by Édouard Manet, a prominent artist of the Impressionism art movement. Created in 1863, the artwork caused a stir due to its unconventional subject matter and composition. The painting depicts a picnic scene in which a nude woman casually interacts with fully clothed men in a pastoral setting. The deliberate juxtaposition of nude and clothed figures challenged traditional artistic conventions and sparked discussions about morality and social norms. The Luncheon on the Grass exemplifies Manet's departure from academic norms and his desire to capture everyday life with honesty and realism, marking a significant moment in the development of Impressionism.",
-    "image": "img/theluncheononthegrass.jpg"
+    "image": "img/theluncheononthegrass.jpg",
+    "slug": "the-luncheon-on-the-grass"
   },
   {
     "id": "70",
@@ -627,7 +696,8 @@
     "artist": "Edgar Degas",
     "year": "1890",
     "description": "Dances in Blue (Les Danseuses en bleu) is a painting by Edgar Degas, a renowned artist associated with the Impressionism art movement. Created in the late 19th century, the artwork portrays a group of ballet dancers dressed in vibrant blue tutus, captured in a moment of movement and grace. Degas, known for his fascination with the world of dance, skillfully captures the fleeting gestures and dynamics of the dancers, emphasizing their elegance and poise. Through his use of loose brushwork and subtle color variations, Degas creates a sense of atmosphere and movement, inviting viewers to immerse themselves in the enchanting world of ballet. Dances in Blue exemplifies Degas' mastery of capturing the fleeting moments of everyday life and his contribution to the Impressionist movement.",
-    "image": "img/dancersinblue.jpg"
+    "image": "img/dancersinblue.jpg",
+    "slug": "dancers-in-blue"
   },
   {
     "id": "71",
@@ -636,7 +706,8 @@
     "artist": "Auguste Rodin",
     "year": "1902",
     "description": "The Thinker is a renowned sculpture created by Auguste Rodin during the post-Impressionism art movement. Depicting a muscular man in a contemplative pose, the artwork captures the intensity of human thought and introspection. Rodin's innovative approach to sculpting, characterized by rough textures and expressive forms, reflects the spirit of post-Impressionism. The sculpture's emphasis on capturing emotional depth and psychological introspection goes beyond the surface representation, inviting viewers to delve into the inner workings of the human mind. The Thinker exemplifies the post-Impressionist artists' desire to explore subjective experiences, emotions, and the complexities of the human condition through their unique artistic interpretations.",
-    "image": "img/thethinker.jpg"
+    "image": "img/thethinker.jpg",
+    "slug": "the-thinker"
   },
   {
     "id": "72",
@@ -645,7 +716,8 @@
     "artist": "Pablo Picasso",
     "year": "1907",
     "description": "A groundbreaking and influential work that marked the beginning of Cubism. Les Demoiselles d'Avignon, painted by Pablo Picasso, is a seminal artwork of the post-Impressionism art movement. The painting portrays five nude female figures in a fragmented and distorted style, breaking away from traditional artistic conventions. Picasso's innovative approach, characterized by angular forms and a sense of primitivism, challenged the established norms of representation. The artwork's bold and confrontational depiction of the female form showcases the artist's exploration of new forms of expression and his fascination with African and Iberian art. Les Demoiselles d'Avignon signifies the transformative nature of post-Impressionism, pushing boundaries and paving the way for the development of modern art in the 20th century.",
-    "image": "img/lesdemoisellesdavignon.jpg"
+    "image": "img/lesdemoisellesdavignon.jpg",
+    "slug": "les-demoiselles-davignon"
   },
   {
     "id": "73",
@@ -654,7 +726,8 @@
     "artist": "Georges Seurat",
     "year": "1884-1886",
     "description": "A Sunday Afternoon on the Island of La Grande Jatte, painted by Georges Seurat, is an iconic masterpiece of the post-Impressionism art movement. The painting depicts a leisurely scene along the banks of the Seine River, where people from various social classes gather and engage in various activities. Seurat's technique of pointillism, using small dots of pure color, creates a sense of luminosity and meticulous detail. The artwork captures the essence of modern life while also emphasizing the artist's interest in the scientific aspects of color and light. A Sunday Afternoon on the Island of La Grande Jatte represents the post-Impressionist pursuit of new artistic approaches and the exploration of the relationship between art and perception.",
-    "image": "img/asundayafternoonontheislandoflagrandejatte.jpg"
+    "image": "img/asundayafternoonontheislandoflagrandejatte.jpg",
+    "slug": "a-sunday-afternoon-on-the-island-of-la-grande-jatte"
   },
   {
     "id": "74",
@@ -663,7 +736,8 @@
     "artist": "Vincent van Gogh",
     "year": "1889",
     "description": "Starry Night, a renowned painting by Vincent van Gogh, is a quintessential masterpiece of the post-Impressionism art movement. The artwork portrays a dreamlike nocturnal scene, with swirling brushstrokes and vibrant colors that evoke a sense of movement and emotion. Van Gogh's use of bold, expressive brushwork and intense colors creates a highly expressive and symbolic interpretation of the night sky. The painting reflects the artist's personal experiences, emotions, and his fascination with capturing the beauty and mystery of the natural world. Starry Night exemplifies the post-Impressionist emphasis on subjective expression, individual perception, and the artist's inner vision.",
-    "image": "img/thestarrynight.jpg"
+    "image": "img/thestarrynight.jpg",
+    "slug": "the-starry-night"
   },
   {
     "id": "75",
@@ -672,7 +746,8 @@
     "artist": "Edvard Munch",
     "year": "1893",
     "description": "The Scream by Edvard Munch is an iconic artwork that embodies the spirit of the Expressionist movement, which emerged as a response to the changing social and psychological realities of the late 19th century. The painting depicts a figure gripped by an overwhelming sense of anguish and existential dread, with a distorted and haunting visage. The swirling colors and exaggerated forms evoke a sense of chaos and inner turmoil. The Scream captures the emotional intensity and psychological unease prevalent in the modern world. It reflects the artist's exploration of inner emotions, anxiety, and the human condition, making it a defining work of post-Impressionism and a symbol of existential angst.",
-    "image": "img/thescream.jpg"
+    "image": "img/thescream.jpg",
+    "slug": "the-scream"
   },
   {
     "id": "76",
@@ -681,7 +756,8 @@
     "artist": "Vincent van Gogh",
     "year": "1888",
     "description": "The Night Cafe by Vincent van Gogh is a notable example of the artist's distinctive style and his contribution to the Post-Impressionist movement. The painting portrays an interior scene of a cafe, suffused with a sense of loneliness, melancholy, and inner turmoil. Van Gogh's use of vivid, contrasting colors and bold brushwork creates a disorienting atmosphere, accentuating the emotional intensity of the space. The skewed perspective and distorted forms further enhance the feeling of unease and psychological tension. The Night Cafe exemplifies van Gogh's exploration of subjective emotions and his unique approach to capturing the essence of a scene. It stands as a powerful representation of Post-Impressionism's departure from naturalistic depictions and its emphasis on personal expression and interpretation.",
-    "image": "img/thenightcafe.jpg"
+    "image": "img/thenightcafe.jpg",
+    "slug": "the-night-caf"
   },
   {
     "id": "77",
@@ -690,7 +766,8 @@
     "artist": "Paul Gauguin",
     "year": "1889",
     "description": "The Yellow Christ, created by Paul Gauguin, is a significant work within the Post-Impressionist movement. Depicting the crucifixion of Christ in a rural Breton landscape, the painting exhibits Gauguin's distinct style characterized by bold colors, simplified forms, and symbolic imagery. The intense yellow color of Christ's body, set against the blue landscape and surrounded by the local people, creates a striking visual contrast and evokes a sense of spiritual power. The Yellow Christ reflects Gauguin's exploration of religious themes and his desire to infuse his art with deeper meaning and emotion. It represents a departure from traditional religious depictions, embracing a more personal and expressive approach that is central to the ideals of Post-Impressionism.",
-    "image": "img/theyellowchrist.jpg"
+    "image": "img/theyellowchrist.jpg",
+    "slug": "the-yellow-christ"
   },
   {
     "id": "78",
@@ -699,7 +776,8 @@
     "artist": "Paul Cézanne",
     "year": "1902-1906",
     "description": "Mont Sainte-Victoire, painted by Paul Cézanne, is an iconic masterpiece of the Post-Impressionist movement. The painting captures the majestic mountain located near Aix-en-Provence, France, and showcases Cézanne's unique artistic vision. With its fragmented forms, dynamic brushstrokes, and exploration of color and light, Mont Sainte-Victoire exemplifies Cézanne's innovative approach to depicting nature. The mountain is depicted from different angles and viewpoints, highlighting Cézanne's interest in capturing the essence of the subject rather than a literal representation. This painting demonstrates the Post-Impressionists' departure from the strict adherence to visual reality and their emphasis on personal interpretation and subjective expression.",
-    "image": "img/montsaintevictoire.jpg"
+    "image": "img/montsaintevictoire.jpg",
+    "slug": "mont-sainte-victoire"
   },
   {
     "id": "79",
@@ -708,7 +786,8 @@
     "artist": "Henri Matisse",
     "year": "1891",
     "description": "Tahitian Women on the Beach, painted by Paul Gauguin, is a significant work within the Post-Impressionist art movement. The painting portrays two Tahitian women in a lush tropical landscape, embodying Gauguin's fascination with the exotic and the primitive. Through bold, vibrant colors, simplified forms, and flattened perspective, Gauguin sought to convey the essence and emotional impact of the scene rather than a realistic representation. Tahitian Women on the Beach reflects Gauguin's exploration of non-Western cultures and his desire for a more primitive and spiritual connection to nature. This painting is emblematic of the Post-Impressionists' departure from naturalistic depictions and their pursuit of heightened subjectivity and symbolic expression.",
-    "image": "img/tahitianwomenonthebeach.jpg"
+    "image": "img/tahitianwomenonthebeach.jpg",
+    "slug": "tahitian-women-on-the-beach"
   },
   {
     "id": "80",
@@ -717,7 +796,8 @@
     "artist": "Georges Rouault",
     "year": "1908-1913",
     "description": "La Parade, painted by Georges Seurat, is a notable example of the Pointillism technique within the Post-Impressionist art movement. The painting depicts a crowd of people gathered for a parade, with each figure meticulously composed of tiny, distinct dots of color. Seurat's meticulous and scientific approach to color theory and composition sought to achieve a harmonious optical effect when viewed from a distance. La Parade exemplifies the Post-Impressionist artists' interest in exploring new techniques and pushing the boundaries of traditional representation. Through the intricate arrangement of dots, Seurat captured the play of light, color, and movement, creating a vibrant and dynamic visual experience.",
-    "image": "img/laparade.jpg"
+    "image": "img/laparade.jpg",
+    "slug": "la-parade"
   },
   {
     "id": "81",
@@ -726,7 +806,8 @@
     "artist": "Salvador Dalí",
     "year": "1931",
     "description": "The Persistence of Memory, created by Salvador Dalí, is an iconic artwork that exemplifies the Surrealist movement. The painting features a dreamlike landscape with melting clocks draped over various objects, including a tree and a strange creature. The distorted and surreal elements in the painting evoke a sense of the subconscious and challenge conventional notions of time and reality. Dalí's exploration of symbolism and his ability to create a mysterious and unsettling atmosphere are characteristic of Surrealism. The Persistence of Memory invites viewers to enter a world of imagination and tap into the hidden depths of the mind, reflecting the Surrealist fascination with the subconscious and the irrational.",
-    "image": "img/thepersistenceofmemory.jpg"
+    "image": "img/thepersistenceofmemory.jpg",
+    "slug": "the-persistence-of-memory"
   },
   {
     "id": "82",
@@ -735,7 +816,8 @@
     "artist": "Salvador Dalí",
     "year": "1948",
     "description": "In Salvador Dalí's painting, The Elephants, the artist continues his exploration of the surreal and dreamlike imagery that characterizes the Surrealist movement. The artwork depicts a group of elephants with impossibly long and thin legs, seemingly defying the laws of nature. The elephants are depicted as delicate and fragile, almost weightless, while carrying massive obelisks on their backs. This juxtaposition of weightlessness and burden creates a sense of paradox and invites contemplation. Through the surreal depiction of elephants, Dalí taps into the realm of the subconscious and challenges our perception of reality. The Elephants showcases Dalí's mastery of visual illusion and his ability to evoke a sense of mystery and wonder, key elements of Surrealist art.",
-    "image": "img/theelephants.jpg"
+    "image": "img/theelephants.jpg",
+    "slug": "the-elephants"
   },
   {
     "id": "83",
@@ -744,7 +826,8 @@
     "artist": "René Magritte",
     "year": "1964",
     "description": "A thought-provoking painting featuring a man in a suit, with a green apple obscuring his face. René Magritte's painting, The Son of Man, is a quintessential work of Surrealism. The artwork features a man in a business suit, standing in front of a seaside landscape, with his face obscured by a green apple. The juxtaposition of the ordinary elements, such as the man and the landscape, with the surreal presence of the apple creates a sense of mystery and intrigue. The obscured face symbolizes the enigmatic nature of human identity and invites the viewer to question the relationship between appearance and reality. The Son of Man exemplifies Magritte's exploration of the subconscious, the irrational, and the power of symbols, which are all central themes in Surrealist art.",
-    "image": "img/thesonofman.jpg"
+    "image": "img/thesonofman.jpg",
+    "slug": "the-son-of-man"
   },
   {
     "id": "84",
@@ -753,7 +836,8 @@
     "artist": "René Magritte",
     "year": "1928-1929",
     "description": "The Treachery of Images, created by René Magritte, is a seminal artwork of Surrealism. The painting depicts a realistic image of a pipe with the inscription, \"Ceci n'est pas une pipe\" (This is not a pipe) written below it. The juxtaposition of the visual representation and the contradictory text challenges our perception of reality and the nature of representation. Magritte's intention was to highlight the distinction between an object and its representation, emphasizing that the painting is merely an image of a pipe and not the pipe itself. The Treachery of Images exemplifies Surrealism's exploration of the subconscious, the play between reality and illusion, and the subversion of conventional meaning.",
-    "image": "img/thetreacheryofimages.jpg"
+    "image": "img/thetreacheryofimages.jpg",
+    "slug": "the-treachery-of-images"
   },
   {
     "id": "85",
@@ -762,7 +846,8 @@
     "artist": "Salvador Dalí",
     "year": "1929",
     "description": "The Accommodations of Desire, painted in 1929 by Salvador Dalí, explores the artist's anxieties surrounding his passionate relationship with Gala, a married woman who became his muse. This small yet significant artwork depicts seven enlarged pebbles that symbolize Dalí's anticipation of his future. Among them are lions' heads, representing his fears, rather than accommodating his desires as the title ironically suggests. The composition also includes a toupee, a colony of ants symbolizing decay, various vessels (including one shaped like a woman's head), and three figures embracing on a platform. Dalí cleverly incorporates cut-out lion heads from a children's book, blurring the boundaries between reality and representation with his meticulous realism and vibrant colors. The artwork challenges viewers to question the authenticity of the depicted phenomena and the overall composition.",
-    "image": "img/theaccommodationsofdesire.jpg"
+    "image": "img/theaccommodationsofdesire.jpg",
+    "slug": "the-accommodations-of-desire"
   },
   {
     "id": "86",
@@ -771,7 +856,8 @@
     "artist": "René Magritte",
     "year": "1928",
     "description": "The Lovers is a surrealist painting by René Magritte, created in 1928. It depicts two figures engaged in a passionate kiss, with their faces covered by a white cloth, concealing their identities. The artwork explores themes of hidden desires, mystery, and the complex nature of human relationships. Through the use of juxtaposition and symbolism, Magritte challenges conventional interpretations and invites viewers to contemplate the meaning behind the concealed faces. The absence of individual identities emphasizes the universal nature of love and the inherent enigma of human connection. The Lovers exemplifies Magritte's distinctive style and his ability to provoke thought and curiosity through his art.",
-    "image": "img/thelovers.jpg"
+    "image": "img/thelovers.jpg",
+    "slug": "the-lovers"
   },
   {
     "id": "87",
@@ -780,7 +866,8 @@
     "artist": "René Magritte",
     "year": "1933",
     "description": "A surrealist painting featuring an easel holding a canvas depicting a landscape that aligns perfectly with the view through a window. The Human Condition is a thought-provoking artwork created by René Magritte in 1933. It features a painting within a painting, depicting an easel with a canvas showing a landscape. However, the landscape seamlessly blends with the actual surroundings, including the sky and trees. This surreal composition raises questions about the nature of perception and reality. Magritte challenges our assumptions about how we perceive and understand the world, suggesting that our perception is subjective and influenced by our own mental constructs. The Human Condition reflects Magritte's exploration of philosophical concepts and his fascination with the intersection of art and reality.",
-    "image": "img/thehumancondition.jpg"
+    "image": "img/thehumancondition.jpg",
+    "slug": "the-human-condition"
   },
   {
     "id": "88",
@@ -789,7 +876,8 @@
     "artist": "Salvador Dalí",
     "year": "1946",
     "description": "The Temptation of Saint Anthony is a mesmerizing artwork created by Salvador Dalí in 1946. Inspired by the life of Saint Anthony of Egypt, the painting presents a surreal and dreamlike scene. Dalí depicts a series of bizarre and distorted figures, animals, and objects surrounding Saint Anthony, who is portrayed as a central figure resisting temptations. The composition showcases Dalí's mastery of detailed and intricate imagery, blending symbolism, religious themes, and elements of the subconscious mind. The painting captures the internal struggles faced by Saint Anthony as he confronts various temptations and forces that challenge his faith and devotion. Through his unique artistic vision, Dalí invites viewers into a world of enigma and symbolism, provoking contemplation and introspection.",
-    "image": "img/thetemptationofsaintanthony.jpg"
+    "image": "img/thetemptationofsaintanthony.jpg",
+    "slug": "the-temptation-of-saint-anthony"
   },
   {
     "id": "89",
@@ -798,7 +886,8 @@
     "artist": "René Magritte",
     "year": "1928",
     "description": "The False Mirror is a captivating artwork created by René Magritte in 1928. It depicts a giant eye with a clear blue sky reflected in it, giving the impression of a mirror. However, upon closer inspection, viewers realize that the eye itself is not a mirror but a painted representation. The painting plays with the idea of perception and illusion, questioning the reliability of what we see. Magritte challenges the notion of the eye as a window to the soul and prompts contemplation on the nature of reality and representation. The False Mirror is a significant example of Surrealist art, inviting viewers to delve into the depths of the subconscious and challenge their preconceived notions of perception.",
-    "image": "img/thefalsemirror.jpg"
+    "image": "img/thefalsemirror.jpg",
+    "slug": "the-false-mirror"
   },
   {
     "id": "90",
@@ -807,96 +896,107 @@
     "artist": "Salvador Dalí",
     "year": "1937",
     "description": "The Metamorphosis of Narcissus is a renowned painting by Salvador Dalí, completed in 1937. It is inspired by the myth of Narcissus, a figure from Greek mythology known for his obsession with his own reflection. The painting depicts two central figures: Narcissus, kneeling by a pool and gazing at his reflection, and a distorted, fragmented version of himself emerging as a hand holding an egg. The imagery symbolizes the transformation and self-obsession of Narcissus. Dalí's painting combines elements of Surrealism with meticulous detail, evoking a dreamlike and symbolic atmosphere. The Metamorphosis of Narcissus is an introspective exploration of identity, self-perception, and the psychological complexities of human nature.",
-    "image": "img/metamorphosisofnarcissus.jpg"
+    "image": "img/metamorphosisofnarcissus.jpg",
+    "slug": "metamorphosis-of-narcissus"
   },
   {
     "id": "91",
-    "era": "Pop Art",
+    "era": "pop-art",
     "title": "Campbell's Soup Cans",
     "artist": "Andy Warhol",
     "year": "1962",
-    "description": "Andy Warhol's iconic artwork, Campbell's Soup Cans, epitomizes the essence of the Pop art movement. Created in 1962, this series of paintings showcased 32 individual canvases, each depicting a different flavor of Campbell's Soup. Warhol's intention was to elevate mundane, mass-produced objects to the realm of high art. By reproducing these everyday consumer items with meticulous accuracy and serial repetition, Warhol challenged the traditional notions of originality and uniqueness in art. The Campbell's Soup Cans became a symbol of the commodification of art and consumer culture, serving as a critique of the rampant consumerism and mass production prevalent in American society.",
-    "image": "img/campbellssoupcans.jpg"
+    "description": "Andy Warhol's iconic artwork, Campbell's Soup Cans, epitomizes the essence of the pop-art movement. Created in 1962, this series of paintings showcased 32 individual canvases, each depicting a different flavor of Campbell's Soup. Warhol's intention was to elevate mundane, mass-produced objects to the realm of high art. By reproducing these everyday consumer items with meticulous accuracy and serial repetition, Warhol challenged the traditional notions of originality and uniqueness in art. The Campbell's Soup Cans became a symbol of the commodification of art and consumer culture, serving as a critique of the rampant consumerism and mass production prevalent in American society.",
+    "image": "img/campbellssoupcans.jpg",
+    "slug": "campbells-soup-cans"
   },
   {
     "id": "92",
-    "era": "Pop Art",
+    "era": "pop-art",
     "title": "Whaam!",
     "artist": "Roy Lichtenstein",
     "year": "1963",
-    "description": "Whaam! is a prominent artwork by Roy Lichtenstein that exemplifies the essence of the Pop art movement. Created in 1963, the piece is a large-scale diptych featuring a comic book-inspired image of a fighter jet shooting down an enemy plane. Lichtenstein's use of bold, vibrant colors, Ben-Day dots, and thick black outlines mimic the aesthetics of comic book panels. By appropriating and recontextualizing popular imagery from mass media, Lichtenstein challenged the distinction between high and low art. Whaam! captures the energy, dynamism, and visual language of popular culture, reflecting the pervasive influence of consumerism and mass media on society during the Pop art era.",
-    "image": "img/whaam.jpg"
+    "description": "Whaam! is a prominent artwork by Roy Lichtenstein that exemplifies the essence of the pop-art movement. Created in 1963, the piece is a large-scale diptych featuring a comic book-inspired image of a fighter jet shooting down an enemy plane. Lichtenstein's use of bold, vibrant colors, Ben-Day dots, and thick black outlines mimic the aesthetics of comic book panels. By appropriating and recontextualizing popular imagery from mass media, Lichtenstein challenged the distinction between high and low art. Whaam! captures the energy, dynamism, and visual language of popular culture, reflecting the pervasive influence of consumerism and mass media on society during the pop-art era.",
+    "image": "img/whaam.jpg",
+    "slug": "whaam"
   },
   {
     "id": "93",
-    "era": "Pop Art",
+    "era": "pop-art",
     "title": "Drowning Girl",
     "artist": "Roy Lichtenstein",
     "year": "1963",
-    "description": "Drowning Girl is a renowned artwork by Roy Lichtenstein that epitomizes the Pop art movement. Created in 1963, the painting portrays a distressed woman submerged in water, with thought bubbles expressing her emotional turmoil. Lichtenstein's signature style, characterized by bold, flat colors, thick black outlines, and the use of Benday dots, is evident in this piece. By appropriating and reimagining comic book imagery, Lichtenstein challenges traditional notions of fine art and embraces popular culture as a subject matter. Drowning Girl not only captures the attention with its vibrant aesthetic but also prompts viewers to contemplate themes of love, heartbreak, and the complexities of human emotions within the context of a consumer-driven society.",
-    "image": "img/drowninggirl.jpg"
+    "description": "Drowning Girl is a renowned artwork by Roy Lichtenstein that epitomizes the pop-art movement. Created in 1963, the painting portrays a distressed woman submerged in water, with thought bubbles expressing her emotional turmoil. Lichtenstein's signature style, characterized by bold, flat colors, thick black outlines, and the use of Benday dots, is evident in this piece. By appropriating and reimagining comic book imagery, Lichtenstein challenges traditional notions of fine art and embraces popular culture as a subject matter. Drowning Girl not only captures the attention with its vibrant aesthetic but also prompts viewers to contemplate themes of love, heartbreak, and the complexities of human emotions within the context of a consumer-driven society.",
+    "image": "img/drowninggirl.jpg",
+    "slug": "drowning-girl"
   },
   {
     "id": "94",
-    "era": "Pop Art",
+    "era": "pop-art",
     "title": "Marilyn Diptych",
     "artist": "Andy Warhol",
     "year": "1962",
-    "description": "Marilyn Diptych, created by Andy Warhol in 1962, is an iconic artwork that exemplifies the Pop art movement. The diptych consists of fifty images of Marilyn Monroe, half in color and half in black and white, arranged in a grid-like pattern. Warhol's fascination with celebrity culture and mass production is evident in this piece. By repeating and reimagining Monroe's image, Warhol explores the commodification of fame and the fleeting nature of celebrity. The contrasting colors and repetition in Marilyn Diptych highlight Warhol's interest in the interplay between mass media, consumerism, and popular culture. The artwork challenges traditional notions of art and invites viewers to question the role of mass-produced imagery in society.",
-    "image": "img/marilyndiptych.jpg"
+    "description": "Marilyn Diptych, created by Andy Warhol in 1962, is an iconic artwork that exemplifies the pop-art movement. The diptych consists of fifty images of Marilyn Monroe, half in color and half in black and white, arranged in a grid-like pattern. Warhol's fascination with celebrity culture and mass production is evident in this piece. By repeating and reimagining Monroe's image, Warhol explores the commodification of fame and the fleeting nature of celebrity. The contrasting colors and repetition in Marilyn Diptych highlight Warhol's interest in the interplay between mass media, consumerism, and popular culture. The artwork challenges traditional notions of art and invites viewers to question the role of mass-produced imagery in society.",
+    "image": "img/marilyndiptych.jpg",
+    "slug": "marilyn-diptych"
   },
   {
     "id": "95",
-    "era": "Pop Art",
+    "era": "pop-art",
     "title": "Just What Is It That Makes Today's Homes So Different, So Appealing?",
     "artist": "Richard Hamilton",
     "year": "1956",
-    "description": "Just What Is It That Makes Today's Homes So Different, So Appealing?, created by Richard Hamilton in 1956, is a significant artwork of the Pop art movement. This collage showcases the emerging consumer culture of the 1950s, with its focus on advertising, mass media, and domestic life. The composition features various images taken from popular magazines and catalogs, juxtaposed to create a visually striking and thought-provoking scene. The artwork explores themes of consumerism, materialism, and the influence of media on society. It reflects the fascination with contemporary culture and the transformation of everyday objects into symbols of desire and aspiration. Hamilton's piece challenges traditional notions of art by incorporating elements of popular culture, blurring the lines between high and low art.",
-    "image": "img/justwhatisit.jpg"
+    "description": "Just What Is It That Makes Today's Homes So Different, So Appealing?, created by Richard Hamilton in 1956, is a significant artwork of the pop-art movement. This collage showcases the emerging consumer culture of the 1950s, with its focus on advertising, mass media, and domestic life. The composition features various images taken from popular magazines and catalogs, juxtaposed to create a visually striking and thought-provoking scene. The artwork explores themes of consumerism, materialism, and the influence of media on society. It reflects the fascination with contemporary culture and the transformation of everyday objects into symbols of desire and aspiration. Hamilton's piece challenges traditional notions of art by incorporating elements of popular culture, blurring the lines between high and low art.",
+    "image": "img/justwhatisit.jpg",
+    "slug": "just-what-is-it-that-makes-todays-homes-so-different-so-appealing"
   },
   {
     "id": "96",
-    "era": "Pop Art",
+    "era": "pop-art",
     "title": "Oh, Jeff... I Love You, Too... But...",
     "artist": "Roy Lichtenstein",
     "year": "1964",
-    "description": "Oh, Jeff... I Love You, Too... But..., created by Roy Lichtenstein in 1964, is a notable artwork within the Pop art movement. This painting showcases Lichtenstein's iconic style, characterized by his use of bold lines, vibrant colors, and the visual language of comic books. The artwork depicts a dramatic moment of emotional conflict, with a speech bubble capturing the inner thoughts of the female figure. Lichtenstein's piece reflects the influence of mass media and popular culture, as well as the examination of love, relationships, and communication in modern society. By appropriating and recontextualizing imagery from popular sources, Lichtenstein challenges traditional notions of art and invites viewers to question the boundaries between high and low culture.",
-    "image": "img/ohjeff.jpg"
+    "description": "Oh, Jeff... I Love You, Too... But..., created by Roy Lichtenstein in 1964, is a notable artwork within the pop-art movement. This painting showcases Lichtenstein's iconic style, characterized by his use of bold lines, vibrant colors, and the visual language of comic books. The artwork depicts a dramatic moment of emotional conflict, with a speech bubble capturing the inner thoughts of the female figure. Lichtenstein's piece reflects the influence of mass media and popular culture, as well as the examination of love, relationships, and communication in modern society. By appropriating and recontextualizing imagery from popular sources, Lichtenstein challenges traditional notions of art and invites viewers to question the boundaries between high and low culture.",
+    "image": "img/ohjeff.jpg",
+    "slug": "oh-jeff-i-love-you-too-but"
   },
   {
     "id": "97",
-    "era": "Pop Art",
+    "era": "pop-art",
     "title": "Target",
     "artist": "Jasper Johns",
     "year": "1958",
-    "description": "Target, created by Jasper Johns in 1958, is a significant artwork associated with the Pop art movement. Johns, known for his exploration of ordinary objects and iconic symbols, presents a bold and simplified representation of a target in this painting. The use of the target as a subject matter reflects Johns' interest in recontextualizing familiar imagery and challenging the traditional notions of art. By incorporating commonplace objects into his work, Johns invites viewers to reconsider the relationship between art and everyday life. The repetitive and graphic quality of the target image emphasizes its visual impact, while also commenting on themes of consumerism, mass production, and the commodification of art.",
-    "image": "img/target.jpg"
+    "description": "Target, created by Jasper Johns in 1958, is a significant artwork associated with the pop-art movement. Johns, known for his exploration of ordinary objects and iconic symbols, presents a bold and simplified representation of a target in this painting. The use of the target as a subject matter reflects Johns' interest in recontextualizing familiar imagery and challenging the traditional notions of art. By incorporating commonplace objects into his work, Johns invites viewers to reconsider the relationship between art and everyday life. The repetitive and graphic quality of the target image emphasizes its visual impact, while also commenting on themes of consumerism, mass production, and the commodification of art.",
+    "image": "img/target.jpg",
+    "slug": "target"
   },
   {
     "id": "98",
-    "era": "Pop Art",
+    "era": "pop-art",
     "title": "Nine Jackies",
     "artist": "Andy Warhol",
     "year": "1964",
-    "description": "Nine Jackies is a notable artwork created by Andy Warhol in 1964, during the Pop art movement. The piece features nine repetitive images of Jacqueline Kennedy, the iconic First Lady of the United States at the time. Warhol's use of screen-printing techniques and vibrant colors exemplifies his characteristic style, emphasizing the mass production and commercial aesthetic prevalent in Pop art. By depicting multiple images of Jackie Kennedy, Warhol explores themes of celebrity culture, media saturation, and the impact of repetition on our perception of icons. Nine Jackies reflects Warhol's fascination with fame, the power of images, and the intersection of art and popular culture.",
-    "image": "img/ninejackies.jpg"
+    "description": "Nine Jackies is a notable artwork created by Andy Warhol in 1964, during the pop-art movement. The piece features nine repetitive images of Jacqueline Kennedy, the iconic First Lady of the United States at the time. Warhol's use of screen-printing techniques and vibrant colors exemplifies his characteristic style, emphasizing the mass production and commercial aesthetic prevalent in pop-art. By depicting multiple images of Jackie Kennedy, Warhol explores themes of celebrity culture, media saturation, and the impact of repetition on our perception of icons. Nine Jackies reflects Warhol's fascination with fame, the power of images, and the intersection of art and popular culture.",
+    "image": "img/ninejackies.jpg",
+    "slug": "nine-jackies"
   },
   {
     "id": "99",
-    "era": "Pop Art",
+    "era": "pop-art",
     "title": "Flag",
     "artist": "Jasper Johns",
     "year": "1954-1955",
-    "description": "Flag is a renowned artwork created by Jasper Johns in 1954-1955, considered one of the seminal works of the Pop art movement. The painting depicts a simple representation of the American flag, executed with bold brushwork and vibrant colors. Johns's intention was not to express patriotic sentiment, but rather to explore the concept of semiotics and challenge traditional notions of art. By appropriating a familiar and iconic symbol, Johns raises questions about the nature of representation and symbolism in art. Flag exemplifies the Pop art movement's fascination with popular culture, mass media, and the appropriation of everyday objects and images in artistic expression.",
-    "image": "img/flag.jpg"
+    "description": "Flag is a renowned artwork created by Jasper Johns in 1954-1955, considered one of the seminal works of the pop-art movement. The painting depicts a simple representation of the American flag, executed with bold brushwork and vibrant colors. Johns's intention was not to express patriotic sentiment, but rather to explore the concept of semiotics and challenge traditional notions of art. By appropriating a familiar and iconic symbol, Johns raises questions about the nature of representation and symbolism in art. Flag exemplifies the pop-art movement's fascination with popular culture, mass media, and the appropriation of everyday objects and images in artistic expression.",
+    "image": "img/flag.jpg",
+    "slug": "flag"
   },
   {
     "id": "100",
-    "era": "Pop Art",
+    "era": "pop-art",
     "title": "Banana",
     "artist": "Claes Oldenburg",
     "year": "1966",
-    "description": "Banana is an iconic artwork created by the artist Andy Warhol in 1966 as part of his exploration of popular culture and consumerism within the Pop art movement. The artwork, officially titled \"The Velvet Underground & Nico,\" features a silkscreen print of a banana on the album cover of the band The Velvet Underground. Warhol's use of the banana as a repetitive and easily recognizable image reflects his interest in mass production and the commodification of art. The artwork embodies the Pop art movement's fascination with mundane and everyday objects, elevating them to the status of art and challenging traditional notions of artistic value and originality.",
-    "image": "img/banana.jpg"
+    "description": "Banana is an iconic artwork created by the artist Andy Warhol in 1966 as part of his exploration of popular culture and consumerism within the pop-art movement. The artwork, officially titled \"The Velvet Underground & Nico,\" features a silkscreen print of a banana on the album cover of the band The Velvet Underground. Warhol's use of the banana as a repetitive and easily recognizable image reflects his interest in mass production and the commodification of art. The artwork embodies the pop-art movement's fascination with mundane and everyday objects, elevating them to the status of art and challenging traditional notions of artistic value and originality.",
+    "image": "img/banana.jpg",
+    "slug": "banana"
   }
 ]
