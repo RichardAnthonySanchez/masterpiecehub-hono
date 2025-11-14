@@ -1,0 +1,4 @@
+.img-wrap {
+  background: linear-gradient(#ddd, #ccc);
+  overflow: hidden;
+}

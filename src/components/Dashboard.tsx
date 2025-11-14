@@ -31,12 +31,11 @@ export const Dashboard: FC<{ artworks: ArtPiece[]; eras: string[] }> = ({
                   className="block w-full h-full"
                 >
                   <div className="flex flex-col items-center">
-                    <div className="w-full h-80 rounded-2xl overflow-clip">
+                    <div className="img-wrap w-full h-80 rounded-2xl overflow-clip">
                       <img
                         src={`/${artpiece.image}`}
                         alt={artpiece.title}
-                        className="w-full h-full object-cover object-center"
-                        loading="lazy"
+                        className=" w-full h-full object-cover object-center"
                         decoding="async"
                       />
                     </div>

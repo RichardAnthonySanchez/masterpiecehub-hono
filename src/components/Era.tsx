@@ -28,12 +28,11 @@ export const Era: FC<{ artworks: ArtPiece[]; era: string }> = ({
                 className="block w-full h-full"
               >
                 <div className="flex flex-col items-center">
-                  <div className="w-full h-80 rounded-2xl overflow-clip ">
+                  <div className="img-wrap w-full h-80 rounded-2xl overflow-clip ">
                     <img
                       src={"/" + art.image}
                       alt={art.title}
                       className="w-full h-full object-cover object-center"
-                      loading="lazy"
                       decoding="async"
                     />
                   </div>

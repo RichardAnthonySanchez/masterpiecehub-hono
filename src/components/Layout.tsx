@@ -5,6 +5,7 @@ export const Layout: FC = (props) => {
     <html>
       <link href="/styles/output.css" rel="stylesheet" />
       <body className="p-8">{props.children}</body>
+      <script src="/js/img-wrap.js"></script>
     </html>
   );
 };

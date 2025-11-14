@@ -1,4 +1,5 @@
 @import "./fonts.css";
+@import "./img-wrap.css";
 
 @tailwind base;
 @tailwind components;
