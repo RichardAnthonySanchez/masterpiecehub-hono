@@ -16,10 +16,10 @@ export const Artwork: FC<ArtPiece> = ({
           <p>{artist}</p>
         </div>
         <div className="col">
-          <div className="artwork mb-8">
+          <div className="artwork flex justify-center mb-8">
             <img className="" src={"/" + image} alt={title} decoding="async" />
           </div>
-          <p className="era-copy lg:text-2xl/10">{description}</p>
+          <p className="era-copy sm:text-5xl xl:text-2xl/10">{description}</p>
         </div>
       </div>
     </Layout>

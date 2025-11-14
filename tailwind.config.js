@@ -4,6 +4,7 @@ export default {
   theme: {
     extend: {
       colors: {
+        "content-dark": "#8D5B4D",
       },
       fontFamily: {
         display: ["Almendra", "Georgia", "serif"],
@@ -24,7 +25,6 @@ export default {
           "base-100": "#F5E8E5",
           "base-200": "#f3e0d9",
           "base-300": "#edd3cb",
-          "content-dark": "#8D5B4D",
           "base-content": "#A67264",
           "primary-content": "#F5E8E5"
         },
