@@ -43,6 +43,11 @@ export const Era: FC<{ artworks: ArtPiece[]; era: string }> = ({
           ))}
         </ul>
       </div>
+      <div className="footer-nav flex justify-center mt-12">
+        <a href="/art" className="btn btn-primary text-4xl w-full">
+          Select A Different Art Movement
+        </a>
+      </div>
     </Layout>
   );
 };

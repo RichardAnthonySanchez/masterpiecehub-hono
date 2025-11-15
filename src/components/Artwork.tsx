@@ -7,6 +7,7 @@ export const Artwork: FC<ArtPiece> = ({
   artist,
   description,
   image,
+  era,
 }) => {
   return (
     <Layout>
@@ -21,6 +22,14 @@ export const Artwork: FC<ArtPiece> = ({
           </div>
           <p className="era-copy sm:text-5xl xl:text-2xl/10">{description}</p>
         </div>
+      </div>
+      <div className="footer-nav flex justify-center mt-12">
+        <a
+          href={`/art/` + era.toLowerCase()}
+          className="btn btn-primary text-4xl w-full"
+        >
+          Select A Different Artwork from: {era}
+        </a>
       </div>
     </Layout>
   );
