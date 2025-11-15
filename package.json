@@ -3,7 +3,8 @@
   "type": "module",
   "scripts": {
     "seed": "node --env-file=.env scripts/seed.ts",
-    "dev": "tsx watch --env-file=.env src/index.tsx",
+    "dev": "npm run watch:css & tsx watch --env-file=.env src/index.tsx ",
+    "watch:css": "npx tailwindcss -i ./src/static/styles/styles.css -o ./src/static/styles/output.css --watch",
     "build:css": "npx tailwindcss -i ./src/static/styles/styles.css -o ./src/static/styles/output.css --minify",
     "build": "tsc && npm run build:css",
     "start": "node dist/src/index.js"
